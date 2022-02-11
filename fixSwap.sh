@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# this script is for clearing out the swap memory when linux is being weird
+
 free_mem="$(free | grep 'Mem:' | awk '{print $7}')"
 used_swap="$(free | grep 'Swap:' | awk '{print $3}')"
 

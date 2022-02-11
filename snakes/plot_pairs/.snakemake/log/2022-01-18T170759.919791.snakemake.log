@@ -1,0 +1,24 @@
+The flag 'directory' used in rule all is only valid for outputs, not inputs.
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job                 count    min threads    max threads
+----------------  -------  -------------  -------------
+all                     1              1              1
+nucmer_alignment        1              1              1
+total                   2              1              1
+
+Select jobs to execute...
+
+[Tue Jan 18 17:08:00 2022]
+rule nucmer_alignment:
+    input: hiCversion1.linear/onlyPairs.tsv
+    output: hiCversion1.linear/nucmer
+    jobid: 4
+    resources: tmpdir=/tmp
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /home/mike/Desktop/scripts/snakes/plot_pairs/.snakemake/log/2022-01-18T170759.919791.snakemake.log

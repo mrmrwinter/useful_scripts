@@ -1,0 +1,9 @@
+PGA_scaffold_13__3_contigs__length_9595054	BRK	1	2631831	2631831
+PGA_scaffold_13__3_contigs__length_9595054	DUP	2631832	2632130	299
+PGA_scaffold_13__3_contigs__length_9595054	BRK	2632131	3331051	698921
+PGA_scaffold_13__3_contigs__length_9595054	JMP	3331477	3760670	429194
+PGA_scaffold_13__3_contigs__length_9595054	INV	3760816	4492517	731702
+PGA_scaffold_13__3_contigs__length_9595054	BRK	4498962	4508117	9156
+PGA_scaffold_13__3_contigs__length_9595054	DUP	4508118	4508635	518
+PGA_scaffold_13__3_contigs__length_9595054	INV	4508636	7063728	2555093
+PGA_scaffold_13__3_contigs__length_9595054	BRK	7063916	9595054	2531139

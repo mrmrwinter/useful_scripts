@@ -1,0 +1,4 @@
+Building DAG of jobs...
+MissingInputException in line 18 of /media/mike/WD_4TB/querying_assemblies/snakefile:
+Missing input files for rule read_database_creation:
+/home/531734/mike/karyon_longread/data/assemblies/hiCversion1.fasta

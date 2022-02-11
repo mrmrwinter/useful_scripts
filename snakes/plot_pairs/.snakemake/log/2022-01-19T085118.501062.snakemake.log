@@ -1,0 +1,6 @@
+The flag 'directory' used in rule all is only valid for outputs, not inputs.
+The flag 'directory' used in rule nucmer_alignment is only valid for outputs, not inputs.
+Building DAG of jobs...
+MissingInputException in line 164 of /home/mike/Desktop/scripts/snakes/plot_pairs/snakefile:
+Missing input files for rule nucmer_alignment:
+hiCversion1.lineartmp

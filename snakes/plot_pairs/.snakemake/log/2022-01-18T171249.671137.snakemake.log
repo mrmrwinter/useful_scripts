@@ -1,0 +1,50 @@
+The flag 'directory' used in rule all is only valid for outputs, not inputs.
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job                 count    min threads    max threads
+----------------  -------  -------------  -------------
+all                     1              1              1
+blast                   1              1              1
+nucmer_alignment        1              1              1
+only_pairs              1              1              1
+total                   4              1              1
+
+Select jobs to execute...
+
+[Tue Jan 18 17:12:49 2022]
+rule blast:
+    input: /media/mike/WD_4TB/karyon_longread/data/assemblies/hiCversion1.linear.fasta, hiCversion1.linear/database/hiCversion1.linear.nin
+    output: hiCversion1.linear/hits.blast.out
+    jobid: 1
+    resources: tmpdir=/tmp
+
+[Tue Jan 18 18:58:17 2022]
+Finished job 1.
+1 of 4 steps (25%) done
+Select jobs to execute...
+
+[Tue Jan 18 18:58:17 2022]
+rule only_pairs:
+    input: hiCversion1.linear/hits.blast.out
+    output: hiCversion1.linear/onlyPairs.tsv
+    jobid: 3
+    resources: tmpdir=/tmp
+
+[Tue Jan 18 18:58:18 2022]
+Finished job 3.
+2 of 4 steps (50%) done
+Select jobs to execute...
+
+[Tue Jan 18 18:58:18 2022]
+rule nucmer_alignment:
+    input: hiCversion1.linear/onlyPairs.tsv
+    output: hiCversion1.linear/nucmer
+    jobid: 4
+    resources: tmpdir=/tmp
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /home/mike/Desktop/scripts/snakes/plot_pairs/.snakemake/log/2022-01-18T171249.671137.snakemake.log

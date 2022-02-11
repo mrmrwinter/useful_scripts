@@ -1,0 +1,42 @@
+
+##############################################################################
+
+configfile: "config.yaml"
+
+rule all:
+    input:
+        config["assembly"] + "/hits.blast.out"
+
+
+rule read_database_creation:
+    message:
+        "[INFO] Creating database of all input reads..."
+    input:
+        config["assembly_path"]
+    output:
+        config["assembly"] + "/database/" + config["assembly"] + ".nin"
+    params:
+        db_name = config["assembly"] + "/database/" + config["assembly"]
+    shell:
+        "makeblastdb -in {input} -input_type 'fasta' -dbtype nucl -out {params.db_name}"
+
+
+rule blast:
+    input:
+        query = config["query"],
+        db_name = config["assembly"] + "/database/" + config["assembly"] + ".nin"
+    output:
+        config["assembly"] + "/hits.blast.out"
+    params:
+        blastdb = config["assembly"] + "/database/" + config["assembly"],
+        threads = config["threads"]
+    shell:
+        "blastn \
+        -db {params.blastdb} \
+        -query {input[0]} \
+        -outfmt '6 qseqid staxids bitscore std sscinames sskingdoms stitle' \
+        -max_target_seqs 50 \
+        -max_hsps 40 \
+        -evalue 1e-25 \
+        -num_threads {params[threads]} \
+        -out {output}"

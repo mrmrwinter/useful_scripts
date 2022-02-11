@@ -1,0 +1,14 @@
+PGA_scaffold_25__1_contigs__length_50000	BRK	1	2824	2824
+PGA_scaffold_25__1_contigs__length_50000	INV	3183	3712	530
+PGA_scaffold_25__1_contigs__length_50000	JMP	3885	3712	-172
+PGA_scaffold_25__1_contigs__length_50000	JMP	3885	4393	509
+PGA_scaffold_25__1_contigs__length_50000	INV	4664	6287	1624
+PGA_scaffold_25__1_contigs__length_50000	INV	6389	6894	506
+PGA_scaffold_25__1_contigs__length_50000	GAP	7502	10984	3483	42630	-39147
+PGA_scaffold_25__1_contigs__length_50000	JMP	11490	13652	2163
+PGA_scaffold_25__1_contigs__length_50000	JMP	13927	13678	-248
+PGA_scaffold_25__1_contigs__length_50000	JMP	14046	15285	1240
+PGA_scaffold_25__1_contigs__length_50000	JMP	15638	15285	-352
+PGA_scaffold_25__1_contigs__length_50000	INV	15638	16326	689
+PGA_scaffold_25__1_contigs__length_50000	INV	16525	17053	529
+PGA_scaffold_25__1_contigs__length_50000	BRK	17995	50000	32006

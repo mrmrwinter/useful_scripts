@@ -1,0 +1,4 @@
+The flag 'directory' used in rule all is only valid for outputs, not inputs.
+SyntaxError:
+Not all output, log and benchmark files of rule single_scaffold_extraction contain the same wildcards. This is crucial though, in order to avoid that two or more jobs write to the same file.
+  File "/home/mike/Desktop/scripts/snakes/plot_pairs/snakefile", line 154, in <module>

@@ -1,0 +1,34 @@
+I don't think so, but if I'm wrong, I would be happy because I miss it too. What I'm doing now is (works with a tab delimited output and a multifasta file query) to find the last query ID written in the blast output, and then to find it into the fasta file. This works only because sequences are "blasted" in the same order as in the query file.
+
+## 1st step
+tail -1 out.tab.blast | cut -f 1  > lastqueryblasted
+
+## 2nd step
+grep -n -f  lastqueryblasted query.fasta
+# res1, ex: 23000
+
+## last step, pourcentage computing
+wc -l  query.fasta
+# res2, ex: 33000
+
+# your (under)estimated pourcentage
+echo "(23000 / 33000) *100" | bc -l
+This is not very convenient I know, but it helps.
+
+EDIT: I use that so much often, that I eventually wrapped it in a script. if you name it blast_monitor.sh, it works like this:
+
+blastab_monitor.sh blastresult.blast queryfasta.fa
+Here it is:
+
+#!/bin/sh
+### monitor a tab-outputed blast job by giving the approximative % done
+blast=$1
+query=$2
+echo "the blast out is: "$blast
+echo "the fasta query is: "$query
+echo
+curquery=$(tail -1 $blast | cut -f 1)
+curline=$(fgrep -n $curquery $query |  cut -f 1 -d ':')
+nblines=$(wc -l $query | cut -f 1 -d " ")
+percent=$(echo "($curline/$nblines) *100" | bc -l | cut -c 1-4)
+echo "The blast job is about $percent % done..."

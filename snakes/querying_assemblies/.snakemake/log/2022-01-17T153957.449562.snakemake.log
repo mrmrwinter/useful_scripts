@@ -1,0 +1,4 @@
+Building DAG of jobs...
+MissingInputException in line 46 of /media/mike/WD_4TB/querying_assemblies/snakefile:
+Missing input files for rule tax_blast:
+data/assemblies/hiCversion1.fasta

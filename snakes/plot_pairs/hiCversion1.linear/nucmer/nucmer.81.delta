@@ -1,0 +1,6 @@
+/home/mike/Desktop/scripts/snakes/plot_pairs/hiCversion1.linear/tmp/PGA_scaffold_41__1_contigs__length_125000.fasta /home/mike/Desktop/scripts/snakes/plot_pairs/hiCversion1.linear/tmp/PGA_scaffold_58__1_contigs__length_186000.fasta
+NUCMER
+>PGA_scaffold_41__1_contigs__length_125000 PGA_scaffold_58__1_contigs__length_186000 125000 186000
+62269 83896 150563 172189 5 5 0
+21487
+0

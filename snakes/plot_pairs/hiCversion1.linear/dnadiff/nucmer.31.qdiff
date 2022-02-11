@@ -1,0 +1,2109 @@
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1	10746	10746
+PGA_scaffold_45__1_contigs__length_3649086	DUP	10708	21302	10595
+PGA_scaffold_45__1_contigs__length_3649086	DUP	11292	25963	14672
+PGA_scaffold_45__1_contigs__length_3649086	DUP	24128	28643	4516
+PGA_scaffold_45__1_contigs__length_3649086	DUP	27007	31523	4517
+PGA_scaffold_45__1_contigs__length_3649086	GAP	51389	42276	-9112	-9433	321
+PGA_scaffold_45__1_contigs__length_3649086	DUP	60648	80690	20043
+PGA_scaffold_45__1_contigs__length_3649086	DUP	80079	84592	4514
+PGA_scaffold_45__1_contigs__length_3649086	DUP	81199	85712	4514
+PGA_scaffold_45__1_contigs__length_3649086	DUP	85036	89552	4517
+PGA_scaffold_45__1_contigs__length_3649086	DUP	88716	93232	4517
+PGA_scaffold_45__1_contigs__length_3649086	DUP	90476	93627	3152
+PGA_scaffold_45__1_contigs__length_3649086	BRK	93628	96841	3214
+PGA_scaffold_45__1_contigs__length_3649086	DUP	96842	97031	190
+PGA_scaffold_45__1_contigs__length_3649086	INV	97032	112625	15594
+PGA_scaffold_45__1_contigs__length_3649086	JMP	112925	112626	-298
+PGA_scaffold_45__1_contigs__length_3649086	BRK	112977	114164	1188
+PGA_scaffold_45__1_contigs__length_3649086	DUP	114165	114499	335
+PGA_scaffold_45__1_contigs__length_3649086	DUP	114492	114637	146
+PGA_scaffold_45__1_contigs__length_3649086	JMP	114638	116641	2004
+PGA_scaffold_45__1_contigs__length_3649086	JMP	116977	116968	-8
+PGA_scaffold_45__1_contigs__length_3649086	GAP	117311	118401	1091	28	1063
+PGA_scaffold_45__1_contigs__length_3649086	JMP	119428	127822	8395
+PGA_scaffold_45__1_contigs__length_3649086	DUP	127840	128026	187
+PGA_scaffold_45__1_contigs__length_3649086	BRK	128027	132318	4292
+PGA_scaffold_45__1_contigs__length_3649086	DUP	132319	132568	250
+PGA_scaffold_45__1_contigs__length_3649086	BRK	132569	141811	9243
+PGA_scaffold_45__1_contigs__length_3649086	DUP	141812	142028	217
+PGA_scaffold_45__1_contigs__length_3649086	BRK	142029	143042	1014
+PGA_scaffold_45__1_contigs__length_3649086	DUP	143043	156841	13799
+PGA_scaffold_45__1_contigs__length_3649086	JMP	156842	149414	-7427
+PGA_scaffold_45__1_contigs__length_3649086	JMP	173860	165520	-8339
+PGA_scaffold_45__1_contigs__length_3649086	JMP	185675	177319	-8355
+PGA_scaffold_45__1_contigs__length_3649086	DUP	187977	195985	8009
+PGA_scaffold_45__1_contigs__length_3649086	DUP	195841	196082	242
+PGA_scaffold_45__1_contigs__length_3649086	DUP	196015	196256	242
+PGA_scaffold_45__1_contigs__length_3649086	DUP	196189	196430	242
+PGA_scaffold_45__1_contigs__length_3649086	DUP	196363	196604	242
+PGA_scaffold_45__1_contigs__length_3649086	DUP	196537	196702	166
+PGA_scaffold_45__1_contigs__length_3649086	BRK	196703	196710	8
+PGA_scaffold_45__1_contigs__length_3649086	DUP	196711	196952	242
+PGA_scaffold_45__1_contigs__length_3649086	DUP	196885	197050	166
+PGA_scaffold_45__1_contigs__length_3649086	BRK	197051	197052	2
+PGA_scaffold_45__1_contigs__length_3649086	DUP	197053	200506	3454
+PGA_scaffold_45__1_contigs__length_3649086	JMP	200507	200506	0
+PGA_scaffold_45__1_contigs__length_3649086	DUP	203984	223526	19543
+PGA_scaffold_45__1_contigs__length_3649086	DUP	213778	224480	10703
+PGA_scaffold_45__1_contigs__length_3649086	BRK	224481	224730	250
+PGA_scaffold_45__1_contigs__length_3649086	INV	226852	230499	3648
+PGA_scaffold_45__1_contigs__length_3649086	INV	231630	230710	-919
+PGA_scaffold_45__1_contigs__length_3649086	GAP	232857	234238	1382	507	875
+PGA_scaffold_45__1_contigs__length_3649086	GAP	241731	241790	60	-9	69
+PGA_scaffold_45__1_contigs__length_3649086	GAP	242371	242574	204	414	-210
+PGA_scaffold_45__1_contigs__length_3649086	GAP	242734	242978	245	43	202
+PGA_scaffold_45__1_contigs__length_3649086	GAP	244285	244364	80	500	-420
+PGA_scaffold_45__1_contigs__length_3649086	BRK	245768	246361	594
+PGA_scaffold_45__1_contigs__length_3649086	DUP	246362	246567	206
+PGA_scaffold_45__1_contigs__length_3649086	GAP	251556	252380	825	442	383
+PGA_scaffold_45__1_contigs__length_3649086	GAP	253474	253896	423	197	226
+PGA_scaffold_45__1_contigs__length_3649086	GAP	255879	258611	2733	-1	2734
+PGA_scaffold_45__1_contigs__length_3649086	INV	259713	259712	0
+PGA_scaffold_45__1_contigs__length_3649086	INV	260181	260180	0
+PGA_scaffold_45__1_contigs__length_3649086	GAP	262067	262278	212	-1	213
+PGA_scaffold_45__1_contigs__length_3649086	JMP	264350	265850	1501
+PGA_scaffold_45__1_contigs__length_3649086	JMP	266061	266058	-2
+PGA_scaffold_45__1_contigs__length_3649086	DUP	269095	269530	436
+PGA_scaffold_45__1_contigs__length_3649086	BRK	269531	269729	199
+PGA_scaffold_45__1_contigs__length_3649086	GAP	271353	271763	411	536	-125
+PGA_scaffold_45__1_contigs__length_3649086	JMP	272880	272875	-4
+PGA_scaffold_45__1_contigs__length_3649086	JMP	274366	274436	71
+PGA_scaffold_45__1_contigs__length_3649086	GAP	275093	275102	10	246	-236
+PGA_scaffold_45__1_contigs__length_3649086	GAP	275250	275347	98	137	-39
+PGA_scaffold_45__1_contigs__length_3649086	INV	277710	277846	137
+PGA_scaffold_45__1_contigs__length_3649086	INV	278076	278448	373
+PGA_scaffold_45__1_contigs__length_3649086	JMP	278770	285356	6587
+PGA_scaffold_45__1_contigs__length_3649086	GAP	286869	286867	-1	149	-150
+PGA_scaffold_45__1_contigs__length_3649086	BRK	287063	292673	5611
+PGA_scaffold_45__1_contigs__length_3649086	DUP	292674	292867	194
+PGA_scaffold_45__1_contigs__length_3649086	JMP	292868	292866	-1
+PGA_scaffold_45__1_contigs__length_3649086	BRK	294440	294666	227
+PGA_scaffold_45__1_contigs__length_3649086	DUP	294667	294983	317
+PGA_scaffold_45__1_contigs__length_3649086	BRK	294984	295243	260
+PGA_scaffold_45__1_contigs__length_3649086	DUP	295244	295649	406
+PGA_scaffold_45__1_contigs__length_3649086	DUP	295325	295798	474
+PGA_scaffold_45__1_contigs__length_3649086	JMP	295799	296183	385
+PGA_scaffold_45__1_contigs__length_3649086	JMP	296504	296607	104
+PGA_scaffold_45__1_contigs__length_3649086	GAP	297102	297228	127	216	-89
+PGA_scaffold_45__1_contigs__length_3649086	GAP	297470	298497	1028	1006	22
+PGA_scaffold_45__1_contigs__length_3649086	JMP	299095	299672	578
+PGA_scaffold_45__1_contigs__length_3649086	BRK	299881	302759	2879
+PGA_scaffold_45__1_contigs__length_3649086	DUP	302760	302974	215
+PGA_scaffold_45__1_contigs__length_3649086	JMP	302975	303421	447
+PGA_scaffold_45__1_contigs__length_3649086	GAP	303781	304147	367	1119	-752
+PGA_scaffold_45__1_contigs__length_3649086	GAP	304833	305225	393	303	90
+PGA_scaffold_45__1_contigs__length_3649086	GAP	307228	309153	1926	1827	99
+PGA_scaffold_45__1_contigs__length_3649086	GAP	311340	311115	-224	10	-234
+PGA_scaffold_45__1_contigs__length_3649086	JMP	311894	311897	4
+PGA_scaffold_45__1_contigs__length_3649086	JMP	312436	313976	1541
+PGA_scaffold_45__1_contigs__length_3649086	JMP	314224	314715	492
+PGA_scaffold_45__1_contigs__length_3649086	GAP	316340	316639	300	1294	-994
+PGA_scaffold_45__1_contigs__length_3649086	BRK	317163	317419	257
+PGA_scaffold_45__1_contigs__length_3649086	DUP	317420	317696	277
+PGA_scaffold_45__1_contigs__length_3649086	INV	317697	317492	-204
+PGA_scaffold_45__1_contigs__length_3649086	INV	317852	324579	6728
+PGA_scaffold_45__1_contigs__length_3649086	JMP	327301	327299	-1
+PGA_scaffold_45__1_contigs__length_3649086	JMP	327713	328193	481
+PGA_scaffold_45__1_contigs__length_3649086	GAP	328517	328605	89	292	-203
+PGA_scaffold_45__1_contigs__length_3649086	GAP	329819	330126	308	154	154
+PGA_scaffold_45__1_contigs__length_3649086	JMP	331119	332633	1515
+PGA_scaffold_45__1_contigs__length_3649086	GAP	343121	343328	208	215	-7
+PGA_scaffold_45__1_contigs__length_3649086	GAP	360864	361062	199	282	-83
+PGA_scaffold_45__1_contigs__length_3649086	GAP	367146	367423	278	71	207
+PGA_scaffold_45__1_contigs__length_3649086	JMP	368679	368669	-9
+PGA_scaffold_45__1_contigs__length_3649086	INV	368890	368937	48
+PGA_scaffold_45__1_contigs__length_3649086	GAP	369107	369354	248	2003	-1755
+PGA_scaffold_45__1_contigs__length_3649086	BRK	369579	369732	154
+PGA_scaffold_45__1_contigs__length_3649086	DUP	369733	370011	279
+PGA_scaffold_45__1_contigs__length_3649086	BRK	370012	370201	190
+PGA_scaffold_45__1_contigs__length_3649086	DUP	370202	370288	87
+PGA_scaffold_45__1_contigs__length_3649086	INV	370289	370514	226
+PGA_scaffold_45__1_contigs__length_3649086	JMP	370762	371034	273
+PGA_scaffold_45__1_contigs__length_3649086	GAP	371722	371718	-3	237	-240
+PGA_scaffold_45__1_contigs__length_3649086	GAP	377011	377228	218	441	-223
+PGA_scaffold_45__1_contigs__length_3649086	DUP	377745	377822	78
+PGA_scaffold_45__1_contigs__length_3649086	BRK	377823	377827	5
+PGA_scaffold_45__1_contigs__length_3649086	BRK	377982	378425	444
+PGA_scaffold_45__1_contigs__length_3649086	DUP	378426	379159	734
+PGA_scaffold_45__1_contigs__length_3649086	BRK	379160	379377	218
+PGA_scaffold_45__1_contigs__length_3649086	DUP	379378	380317	940
+PGA_scaffold_45__1_contigs__length_3649086	BRK	380318	380413	96
+PGA_scaffold_45__1_contigs__length_3649086	DUP	380414	380889	476
+PGA_scaffold_45__1_contigs__length_3649086	BRK	380890	380967	78
+PGA_scaffold_45__1_contigs__length_3649086	DUP	380968	381173	206
+PGA_scaffold_45__1_contigs__length_3649086	BRK	381174	381262	89
+PGA_scaffold_45__1_contigs__length_3649086	DUP	381263	381505	243
+PGA_scaffold_45__1_contigs__length_3649086	BRK	381506	381826	321
+PGA_scaffold_45__1_contigs__length_3649086	DUP	381827	382560	734
+PGA_scaffold_45__1_contigs__length_3649086	BRK	382561	382778	218
+PGA_scaffold_45__1_contigs__length_3649086	DUP	382779	383718	940
+PGA_scaffold_45__1_contigs__length_3649086	BRK	383719	383814	96
+PGA_scaffold_45__1_contigs__length_3649086	DUP	383815	384290	476
+PGA_scaffold_45__1_contigs__length_3649086	JMP	384291	384368	78
+PGA_scaffold_45__1_contigs__length_3649086	BRK	384575	384663	89
+PGA_scaffold_45__1_contigs__length_3649086	DUP	384664	384906	243
+PGA_scaffold_45__1_contigs__length_3649086	JMP	384907	385227	321
+PGA_scaffold_45__1_contigs__length_3649086	JMP	385962	386179	218
+PGA_scaffold_45__1_contigs__length_3649086	JMP	387120	387215	96
+PGA_scaffold_45__1_contigs__length_3649086	GAP	387713	387720	8	418	-410
+PGA_scaffold_45__1_contigs__length_3649086	GAP	393254	393618	365	167	198
+PGA_scaffold_45__1_contigs__length_3649086	GAP	396394	396922	529	513	16
+PGA_scaffold_45__1_contigs__length_3649086	GAP	398333	398918	586	-8	594
+PGA_scaffold_45__1_contigs__length_3649086	JMP	399145	399164	20
+PGA_scaffold_45__1_contigs__length_3649086	GAP	399679	400521	843	258	585
+PGA_scaffold_45__1_contigs__length_3649086	GAP	400794	400972	179	24	155
+PGA_scaffold_45__1_contigs__length_3649086	JMP	403221	403218	-2
+PGA_scaffold_45__1_contigs__length_3649086	INV	407730	407718	-11
+PGA_scaffold_45__1_contigs__length_3649086	INV	408283	408313	31
+PGA_scaffold_45__1_contigs__length_3649086	GAP	409720	410164	445	171	274
+PGA_scaffold_45__1_contigs__length_3649086	GAP	411268	411408	141	2	139
+PGA_scaffold_45__1_contigs__length_3649086	GAP	411570	411654	85	210	-125
+PGA_scaffold_45__1_contigs__length_3649086	JMP	412038	412599	562
+PGA_scaffold_45__1_contigs__length_3649086	GAP	413055	413046	-8	194	-202
+PGA_scaffold_45__1_contigs__length_3649086	GAP	413908	414027	120	459	-339
+PGA_scaffold_45__1_contigs__length_3649086	GAP	415639	416209	571	297	274
+PGA_scaffold_45__1_contigs__length_3649086	GAP	416553	416582	30	131	-101
+PGA_scaffold_45__1_contigs__length_3649086	GAP	417760	417750	-9	1031	-1040
+PGA_scaffold_45__1_contigs__length_3649086	GAP	418115	418170	56	593	-537
+PGA_scaffold_45__1_contigs__length_3649086	GAP	420564	419928	-635	-221	-414
+PGA_scaffold_45__1_contigs__length_3649086	GAP	420793	420981	189	411	-222
+PGA_scaffold_45__1_contigs__length_3649086	GAP	421403	421717	315	365	-50
+PGA_scaffold_45__1_contigs__length_3649086	GAP	422178	422978	801	320	481
+PGA_scaffold_45__1_contigs__length_3649086	GAP	423678	423852	175	233	-58
+PGA_scaffold_45__1_contigs__length_3649086	GAP	424123	424410	288	326	-38
+PGA_scaffold_45__1_contigs__length_3649086	GAP	424795	424865	71	177	-106
+PGA_scaffold_45__1_contigs__length_3649086	GAP	425318	425909	592	-9	601
+PGA_scaffold_45__1_contigs__length_3649086	GAP	426342	426697	356	40	316
+PGA_scaffold_45__1_contigs__length_3649086	BRK	427613	428355	743
+PGA_scaffold_45__1_contigs__length_3649086	DUP	428356	429905	1550
+PGA_scaffold_45__1_contigs__length_3649086	BRK	429906	431701	1796
+PGA_scaffold_45__1_contigs__length_3649086	DUP	431702	432147	446
+PGA_scaffold_45__1_contigs__length_3649086	BRK	432148	432354	207
+PGA_scaffold_45__1_contigs__length_3649086	DUP	432355	432557	203
+PGA_scaffold_45__1_contigs__length_3649086	BRK	432558	433018	461
+PGA_scaffold_45__1_contigs__length_3649086	DUP	433019	433140	122
+PGA_scaffold_45__1_contigs__length_3649086	BRK	433141	433223	83
+PGA_scaffold_45__1_contigs__length_3649086	DUP	433224	433913	690
+PGA_scaffold_45__1_contigs__length_3649086	BRK	433914	434036	123
+PGA_scaffold_45__1_contigs__length_3649086	DUP	434037	434399	363
+PGA_scaffold_45__1_contigs__length_3649086	BRK	434400	434665	266
+PGA_scaffold_45__1_contigs__length_3649086	DUP	434666	436192	1527
+PGA_scaffold_45__1_contigs__length_3649086	BRK	436193	437988	1796
+PGA_scaffold_45__1_contigs__length_3649086	DUP	437989	438241	253
+PGA_scaffold_45__1_contigs__length_3649086	DUP	438242	438759	518
+PGA_scaffold_45__1_contigs__length_3649086	JMP	438760	438422	-337
+PGA_scaffold_45__1_contigs__length_3649086	INV	438761	440272	1512
+PGA_scaffold_45__1_contigs__length_3649086	BRK	440395	440477	83
+PGA_scaffold_45__1_contigs__length_3649086	DUP	440478	441167	690
+PGA_scaffold_45__1_contigs__length_3649086	INV	441168	441290	123
+PGA_scaffold_45__1_contigs__length_3649086	GAP	441654	441919	266	381	-115
+PGA_scaffold_45__1_contigs__length_3649086	GAP	443550	443841	292	102	190
+PGA_scaffold_45__1_contigs__length_3649086	GAP	444552	444647	96	345	-249
+PGA_scaffold_45__1_contigs__length_3649086	GAP	445263	445556	294	276	18
+PGA_scaffold_45__1_contigs__length_3649086	GAP	445704	446117	414	96	318
+PGA_scaffold_45__1_contigs__length_3649086	GAP	446294	446797	504	39	465
+PGA_scaffold_45__1_contigs__length_3649086	GAP	448301	448562	262	263	-1
+PGA_scaffold_45__1_contigs__length_3649086	JMP	449260	449305	46
+PGA_scaffold_45__1_contigs__length_3649086	GAP	451424	451603	180	261	-81
+PGA_scaffold_45__1_contigs__length_3649086	GAP	454094	454211	118	1	117
+PGA_scaffold_45__1_contigs__length_3649086	BRK	454728	455980	1253
+PGA_scaffold_45__1_contigs__length_3649086	DUP	455981	456315	335
+PGA_scaffold_45__1_contigs__length_3649086	INV	456316	457147	832
+PGA_scaffold_45__1_contigs__length_3649086	GAP	457504	457787	284	0	284
+PGA_scaffold_45__1_contigs__length_3649086	BRK	458249	458319	71
+PGA_scaffold_45__1_contigs__length_3649086	DUP	458320	458634	315
+PGA_scaffold_45__1_contigs__length_3649086	BRK	458635	459201	567
+PGA_scaffold_45__1_contigs__length_3649086	DUP	459202	460103	902
+PGA_scaffold_45__1_contigs__length_3649086	INV	460104	460440	337
+PGA_scaffold_45__1_contigs__length_3649086	BRK	461479	462310	832
+PGA_scaffold_45__1_contigs__length_3649086	DUP	462311	462642	332
+PGA_scaffold_45__1_contigs__length_3649086	BRK	462643	462655	13
+PGA_scaffold_45__1_contigs__length_3649086	DUP	462656	463256	601
+PGA_scaffold_45__1_contigs__length_3649086	DUP	463256	463719	464
+PGA_scaffold_45__1_contigs__length_3649086	JMP	463720	464548	829
+PGA_scaffold_45__1_contigs__length_3649086	BRK	464914	465168	255
+PGA_scaffold_45__1_contigs__length_3649086	DUP	465169	465454	286
+PGA_scaffold_45__1_contigs__length_3649086	JMP	465455	465189	-265
+PGA_scaffold_45__1_contigs__length_3649086	GAP	466837	466835	-1	118	-119
+PGA_scaffold_45__1_contigs__length_3649086	BRK	467300	468128	829
+PGA_scaffold_45__1_contigs__length_3649086	DUP	468129	468493	365
+PGA_scaffold_45__1_contigs__length_3649086	JMP	468494	468748	255
+PGA_scaffold_45__1_contigs__length_3649086	GAP	469352	470049	698	361	337
+PGA_scaffold_45__1_contigs__length_3649086	GAP	470576	470584	9	559	-550
+PGA_scaffold_45__1_contigs__length_3649086	GAP	471097	471609	513	464	49
+PGA_scaffold_45__1_contigs__length_3649086	GAP	471869	472225	357	2	355
+PGA_scaffold_45__1_contigs__length_3649086	GAP	472921	473070	150	174	-24
+PGA_scaffold_45__1_contigs__length_3649086	GAP	473509	473827	319	388	-69
+PGA_scaffold_45__1_contigs__length_3649086	JMP	474182	474182	1
+PGA_scaffold_45__1_contigs__length_3649086	JMP	474348	474539	192
+PGA_scaffold_45__1_contigs__length_3649086	BRK	476509	476562	54
+PGA_scaffold_45__1_contigs__length_3649086	DUP	476563	476804	242
+PGA_scaffold_45__1_contigs__length_3649086	DUP	476737	476978	242
+PGA_scaffold_45__1_contigs__length_3649086	DUP	476911	477150	240
+PGA_scaffold_45__1_contigs__length_3649086	DUP	477083	477324	242
+PGA_scaffold_45__1_contigs__length_3649086	DUP	477180	487669	10490
+PGA_scaffold_45__1_contigs__length_3649086	DUP	487658	487873	216
+PGA_scaffold_45__1_contigs__length_3649086	DUP	487806	488047	242
+PGA_scaffold_45__1_contigs__length_3649086	DUP	487988	488221	234
+PGA_scaffold_45__1_contigs__length_3649086	DUP	488154	488394	241
+PGA_scaffold_45__1_contigs__length_3649086	DUP	488327	488566	240
+PGA_scaffold_45__1_contigs__length_3649086	DUP	488499	488740	242
+PGA_scaffold_45__1_contigs__length_3649086	DUP	488673	488913	241
+PGA_scaffold_45__1_contigs__length_3649086	DUP	488770	499299	10530
+PGA_scaffold_45__1_contigs__length_3649086	DUP	499149	504985	5837
+PGA_scaffold_45__1_contigs__length_3649086	BRK	504986	504989	4
+PGA_scaffold_45__1_contigs__length_3649086	GAP	506640	506638	-1	92	-93
+PGA_scaffold_45__1_contigs__length_3649086	GAP	506992	506990	-1	142	-143
+PGA_scaffold_45__1_contigs__length_3649086	GAP	507620	507850	231	-233	464
+PGA_scaffold_45__1_contigs__length_3649086	GAP	508856	508854	-1	156	-157
+PGA_scaffold_45__1_contigs__length_3649086	GAP	509087	509083	-3	146	-149
+PGA_scaffold_45__1_contigs__length_3649086	GAP	509468	509597	130	329	-199
+PGA_scaffold_45__1_contigs__length_3649086	GAP	509980	510097	118	1	117
+PGA_scaffold_45__1_contigs__length_3649086	GAP	510330	510446	117	88	29
+PGA_scaffold_45__1_contigs__length_3649086	INV	510901	510862	-38
+PGA_scaffold_45__1_contigs__length_3649086	INV	511030	511090	61
+PGA_scaffold_45__1_contigs__length_3649086	GAP	512373	512610	238	52	186
+PGA_scaffold_45__1_contigs__length_3649086	GAP	512946	513270	325	150	175
+PGA_scaffold_45__1_contigs__length_3649086	BRK	513779	515156	1378
+PGA_scaffold_45__1_contigs__length_3649086	DUP	515157	515309	153
+PGA_scaffold_45__1_contigs__length_3649086	JMP	515310	516517	1208
+PGA_scaffold_45__1_contigs__length_3649086	GAP	523048	523343	296	153	143
+PGA_scaffold_45__1_contigs__length_3649086	GAP	524922	525223	302	154	148
+PGA_scaffold_45__1_contigs__length_3649086	JMP	530371	530355	-15
+PGA_scaffold_45__1_contigs__length_3649086	GAP	531457	531454	-2	28114	-28116
+PGA_scaffold_45__1_contigs__length_3649086	GAP	534034	534229	196	252	-56
+PGA_scaffold_45__1_contigs__length_3649086	JMP	534515	534518	4
+PGA_scaffold_45__1_contigs__length_3649086	BRK	538334	538447	114
+PGA_scaffold_45__1_contigs__length_3649086	DUP	538448	539157	710
+PGA_scaffold_45__1_contigs__length_3649086	BRK	539158	539331	174
+PGA_scaffold_45__1_contigs__length_3649086	DUP	539332	539761	430
+PGA_scaffold_45__1_contigs__length_3649086	BRK	539762	539782	21
+PGA_scaffold_45__1_contigs__length_3649086	DUP	539783	540189	407
+PGA_scaffold_45__1_contigs__length_3649086	BRK	540190	542080	1891
+PGA_scaffold_45__1_contigs__length_3649086	DUP	542081	542603	523
+PGA_scaffold_45__1_contigs__length_3649086	DUP	542106	542612	507
+PGA_scaffold_45__1_contigs__length_3649086	BRK	542613	543629	1017
+PGA_scaffold_45__1_contigs__length_3649086	BRK	543995	544358	364
+PGA_scaffold_45__1_contigs__length_3649086	DUP	544359	544792	434
+PGA_scaffold_45__1_contigs__length_3649086	BRK	544793	545589	797
+PGA_scaffold_45__1_contigs__length_3649086	JMP	547439	547857	419
+PGA_scaffold_45__1_contigs__length_3649086	GAP	548080	549419	1340	1639	-299
+PGA_scaffold_45__1_contigs__length_3649086	JMP	554257	554255	-1
+PGA_scaffold_45__1_contigs__length_3649086	JMP	554356	554329	-26
+PGA_scaffold_45__1_contigs__length_3649086	JMP	554947	554945	-1
+PGA_scaffold_45__1_contigs__length_3649086	BRK	555563	555625	63
+PGA_scaffold_45__1_contigs__length_3649086	DUP	555626	556215	590
+PGA_scaffold_45__1_contigs__length_3649086	GAP	557607	557608	2	641	-639
+PGA_scaffold_45__1_contigs__length_3649086	JMP	557911	557909	-1
+PGA_scaffold_45__1_contigs__length_3649086	GAP	558185	558265	81	550	-469
+PGA_scaffold_45__1_contigs__length_3649086	JMP	559457	559607	151
+PGA_scaffold_45__1_contigs__length_3649086	BRK	560621	560719	99
+PGA_scaffold_45__1_contigs__length_3649086	DUP	560720	560822	103
+PGA_scaffold_45__1_contigs__length_3649086	BRK	560823	561091	269
+PGA_scaffold_45__1_contigs__length_3649086	GAP	561387	561772	386	526	-140
+PGA_scaffold_45__1_contigs__length_3649086	GAP	562104	562116	13	104	-91
+PGA_scaffold_45__1_contigs__length_3649086	GAP	563128	563228	101	622	-521
+PGA_scaffold_45__1_contigs__length_3649086	JMP	564447	564437	-9
+PGA_scaffold_45__1_contigs__length_3649086	GAP	564907	565164	258	189	69
+PGA_scaffold_45__1_contigs__length_3649086	GAP	565568	565719	152	144	8
+PGA_scaffold_45__1_contigs__length_3649086	DUP	566220	566746	527
+PGA_scaffold_45__1_contigs__length_3649086	GAP	567463	567703	241	336	-95
+PGA_scaffold_45__1_contigs__length_3649086	GAP	572684	572678	-5	18807	-18812
+PGA_scaffold_45__1_contigs__length_3649086	GAP	573432	573573	142	384	-242
+PGA_scaffold_45__1_contigs__length_3649086	GAP	573915	574229	315	246	69
+PGA_scaffold_45__1_contigs__length_3649086	JMP	575359	575383	25
+PGA_scaffold_45__1_contigs__length_3649086	GAP	581213	581496	284	250	34
+PGA_scaffold_45__1_contigs__length_3649086	GAP	583042	583270	229	199	30
+PGA_scaffold_45__1_contigs__length_3649086	JMP	585323	585475	153
+PGA_scaffold_45__1_contigs__length_3649086	JMP	585602	585908	307
+PGA_scaffold_45__1_contigs__length_3649086	GAP	596034	596025	-8	635	-643
+PGA_scaffold_45__1_contigs__length_3649086	GAP	597477	598154	678	-9	687
+PGA_scaffold_45__1_contigs__length_3649086	GAP	598271	598918	648	-8	656
+PGA_scaffold_45__1_contigs__length_3649086	GAP	601084	601236	153	7	146
+PGA_scaffold_45__1_contigs__length_3649086	BRK	602215	602235	21
+PGA_scaffold_45__1_contigs__length_3649086	DUP	602236	602392	157
+PGA_scaffold_45__1_contigs__length_3649086	BRK	602393	602462	70
+PGA_scaffold_45__1_contigs__length_3649086	JMP	603327	603540	214
+PGA_scaffold_45__1_contigs__length_3649086	GAP	605732	605759	28	145	-117
+PGA_scaffold_45__1_contigs__length_3649086	GAP	606524	606630	107	138	-31
+PGA_scaffold_45__1_contigs__length_3649086	INV	607727	607908	182
+PGA_scaffold_45__1_contigs__length_3649086	INV	608139	608281	143
+PGA_scaffold_45__1_contigs__length_3649086	GAP	608492	608490	-1	96	-97
+PGA_scaffold_45__1_contigs__length_3649086	JMP	608996	608989	-6
+PGA_scaffold_45__1_contigs__length_3649086	GAP	610179	611229	1051	-3	1054
+PGA_scaffold_45__1_contigs__length_3649086	JMP	611992	611987	-4
+PGA_scaffold_45__1_contigs__length_3649086	JMP	615999	615996	-2
+PGA_scaffold_45__1_contigs__length_3649086	BRK	618067	623049	4983
+PGA_scaffold_45__1_contigs__length_3649086	DUP	623050	623348	299
+PGA_scaffold_45__1_contigs__length_3649086	JMP	623349	625801	2453
+PGA_scaffold_45__1_contigs__length_3649086	GAP	626229	626668	440	285	155
+PGA_scaffold_45__1_contigs__length_3649086	GAP	627043	627252	210	34	176
+PGA_scaffold_45__1_contigs__length_3649086	GAP	628244	628386	143	94	49
+PGA_scaffold_45__1_contigs__length_3649086	INV	628947	628944	-2
+PGA_scaffold_45__1_contigs__length_3649086	GAP	629305	629439	135	13	122
+PGA_scaffold_45__1_contigs__length_3649086	INV	629675	629666	-8
+PGA_scaffold_45__1_contigs__length_3649086	GAP	631563	632152	590	224	366
+PGA_scaffold_45__1_contigs__length_3649086	GAP	632781	632782	2	222	-220
+PGA_scaffold_45__1_contigs__length_3649086	GAP	635245	635710	466	461	5
+PGA_scaffold_45__1_contigs__length_3649086	GAP	637080	637356	277	124	153
+PGA_scaffold_45__1_contigs__length_3649086	JMP	638664	638718	55
+PGA_scaffold_45__1_contigs__length_3649086	BRK	639140	639485	346
+PGA_scaffold_45__1_contigs__length_3649086	DUP	639486	639705	220
+PGA_scaffold_45__1_contigs__length_3649086	JMP	639706	639705	0
+PGA_scaffold_45__1_contigs__length_3649086	GAP	640391	643555	3165	-548	3713
+PGA_scaffold_45__1_contigs__length_3649086	GAP	645272	645261	-10	2093	-2103
+PGA_scaffold_45__1_contigs__length_3649086	BRK	646309	646641	333
+PGA_scaffold_45__1_contigs__length_3649086	DUP	646642	646767	126
+PGA_scaffold_45__1_contigs__length_3649086	BRK	646768	646898	131
+PGA_scaffold_45__1_contigs__length_3649086	GAP	647220	647235	16	302	-286
+PGA_scaffold_45__1_contigs__length_3649086	GAP	647720	648229	510	756	-246
+PGA_scaffold_45__1_contigs__length_3649086	GAP	649065	649189	125	0	125
+PGA_scaffold_45__1_contigs__length_3649086	GAP	649525	650409	885	552	333
+PGA_scaffold_45__1_contigs__length_3649086	GAP	650701	651082	382	263	119
+PGA_scaffold_45__1_contigs__length_3649086	GAP	651387	651452	66	183	-117
+PGA_scaffold_45__1_contigs__length_3649086	GAP	652570	652564	-5	5369	-5374
+PGA_scaffold_45__1_contigs__length_3649086	JMP	654754	655060	307
+PGA_scaffold_45__1_contigs__length_3649086	GAP	655542	656066	525	109	416
+PGA_scaffold_45__1_contigs__length_3649086	GAP	657636	657411	-224	-481	257
+PGA_scaffold_45__1_contigs__length_3649086	BRK	661289	661591	303
+PGA_scaffold_45__1_contigs__length_3649086	DUP	661592	661693	102
+PGA_scaffold_45__1_contigs__length_3649086	BRK	661694	661721	28
+PGA_scaffold_45__1_contigs__length_3649086	JMP	662126	662336	211
+PGA_scaffold_45__1_contigs__length_3649086	GAP	668047	668806	760	82	678
+PGA_scaffold_45__1_contigs__length_3649086	GAP	669184	669377	194	345	-151
+PGA_scaffold_45__1_contigs__length_3649086	JMP	670348	670846	499
+PGA_scaffold_45__1_contigs__length_3649086	GAP	672511	672608	98	356	-258
+PGA_scaffold_45__1_contigs__length_3649086	GAP	673484	673478	-5	4448	-4453
+PGA_scaffold_45__1_contigs__length_3649086	GAP	674273	674340	68	1071	-1003
+PGA_scaffold_45__1_contigs__length_3649086	JMP	678250	678828	579
+PGA_scaffold_45__1_contigs__length_3649086	JMP	678952	678976	25
+PGA_scaffold_45__1_contigs__length_3649086	GAP	679847	679880	34	106	-72
+PGA_scaffold_45__1_contigs__length_3649086	GAP	681042	681157	116	2	114
+PGA_scaffold_45__1_contigs__length_3649086	BRK	683526	683542	17
+PGA_scaffold_45__1_contigs__length_3649086	DUP	683543	683696	154
+PGA_scaffold_45__1_contigs__length_3649086	BRK	683697	683792	96
+PGA_scaffold_45__1_contigs__length_3649086	GAP	684600	684787	188	128	60
+PGA_scaffold_45__1_contigs__length_3649086	GAP	686702	686940	239	422	-183
+PGA_scaffold_45__1_contigs__length_3649086	INV	687917	688149	233
+PGA_scaffold_45__1_contigs__length_3649086	INV	688285	688866	582
+PGA_scaffold_45__1_contigs__length_3649086	GAP	689342	689780	439	273	166
+PGA_scaffold_45__1_contigs__length_3649086	GAP	690142	690716	575	557	18
+PGA_scaffold_45__1_contigs__length_3649086	JMP	691561	691569	9
+PGA_scaffold_45__1_contigs__length_3649086	GAP	693737	694009	273	277	-4
+PGA_scaffold_45__1_contigs__length_3649086	GAP	694529	694816	288	389	-101
+PGA_scaffold_45__1_contigs__length_3649086	GAP	697998	698131	134	11	123
+PGA_scaffold_45__1_contigs__length_3649086	GAP	698594	698728	135	110	25
+PGA_scaffold_45__1_contigs__length_3649086	GAP	699687	699918	232	363	-131
+PGA_scaffold_45__1_contigs__length_3649086	BRK	702972	703009	38
+PGA_scaffold_45__1_contigs__length_3649086	DUP	703010	703231	222
+PGA_scaffold_45__1_contigs__length_3649086	BRK	703232	703534	303
+PGA_scaffold_45__1_contigs__length_3649086	GAP	707982	707975	-6	7011	-7017
+PGA_scaffold_45__1_contigs__length_3649086	GAP	709260	709533	274	421	-147
+PGA_scaffold_45__1_contigs__length_3649086	GAP	709848	710150	303	333	-30
+PGA_scaffold_45__1_contigs__length_3649086	GAP	712672	712683	12	214	-202
+PGA_scaffold_45__1_contigs__length_3649086	GAP	713773	713983	211	56	155
+PGA_scaffold_45__1_contigs__length_3649086	JMP	714537	714830	294
+PGA_scaffold_45__1_contigs__length_3649086	JMP	718486	719542	1057
+PGA_scaffold_45__1_contigs__length_3649086	JMP	720196	720531	336
+PGA_scaffold_45__1_contigs__length_3649086	JMP	720838	721571	734
+PGA_scaffold_45__1_contigs__length_3649086	JMP	724483	724482	0
+PGA_scaffold_45__1_contigs__length_3649086	JMP	725103	725102	0
+PGA_scaffold_45__1_contigs__length_3649086	GAP	726284	726418	135	133	2
+PGA_scaffold_45__1_contigs__length_3649086	GAP	728927	729132	206	247	-41
+PGA_scaffold_45__1_contigs__length_3649086	GAP	730139	730406	268	-5	273
+PGA_scaffold_45__1_contigs__length_3649086	BRK	730760	731736	977
+PGA_scaffold_45__1_contigs__length_3649086	DUP	731737	731840	104
+PGA_scaffold_45__1_contigs__length_3649086	BRK	731841	731911	71
+PGA_scaffold_45__1_contigs__length_3649086	GAP	732259	732374	116	-9	125
+PGA_scaffold_45__1_contigs__length_3649086	GAP	736370	736564	195	188	7
+PGA_scaffold_45__1_contigs__length_3649086	GAP	738869	739100	232	456	-224
+PGA_scaffold_45__1_contigs__length_3649086	GAP	740697	740691	-5	509	-514
+PGA_scaffold_45__1_contigs__length_3649086	GAP	741337	741761	425	709	-284
+PGA_scaffold_45__1_contigs__length_3649086	INV	741947	741932	-14
+PGA_scaffold_45__1_contigs__length_3649086	JMP	742055	742398	344
+PGA_scaffold_45__1_contigs__length_3649086	INV	742523	742518	-4
+PGA_scaffold_45__1_contigs__length_3649086	GAP	744208	744622	415	395	20
+PGA_scaffold_45__1_contigs__length_3649086	JMP	745007	745168	162
+PGA_scaffold_45__1_contigs__length_3649086	GAP	745481	745725	245	322	-77
+PGA_scaffold_45__1_contigs__length_3649086	GAP	745940	746346	407	158	249
+PGA_scaffold_45__1_contigs__length_3649086	GAP	746639	747312	674	734	-60
+PGA_scaffold_45__1_contigs__length_3649086	DUP	747747	747910	164
+PGA_scaffold_45__1_contigs__length_3649086	JMP	747911	748121	211
+PGA_scaffold_45__1_contigs__length_3649086	DUP	751284	752457	1174
+PGA_scaffold_45__1_contigs__length_3649086	BRK	752458	752459	2
+PGA_scaffold_45__1_contigs__length_3649086	GAP	754804	754795	-8	1105	-1113
+PGA_scaffold_45__1_contigs__length_3649086	GAP	758072	758165	94	1	93
+PGA_scaffold_45__1_contigs__length_3649086	GAP	762859	762862	4	2513	-2509
+PGA_scaffold_45__1_contigs__length_3649086	JMP	764882	764872	-9
+PGA_scaffold_45__1_contigs__length_3649086	JMP	765160	765147	-12
+PGA_scaffold_45__1_contigs__length_3649086	JMP	768480	768486	7
+PGA_scaffold_45__1_contigs__length_3649086	INV	769496	769402	-93
+PGA_scaffold_45__1_contigs__length_3649086	INV	769498	770164	667
+PGA_scaffold_45__1_contigs__length_3649086	JMP	770751	770748	-2
+PGA_scaffold_45__1_contigs__length_3649086	BRK	771562	771791	230
+PGA_scaffold_45__1_contigs__length_3649086	DUP	771792	772008	217
+PGA_scaffold_45__1_contigs__length_3649086	BRK	772009	772010	2
+PGA_scaffold_45__1_contigs__length_3649086	DUP	772011	773063	1053
+PGA_scaffold_45__1_contigs__length_3649086	DUP	773063	773291	229
+PGA_scaffold_45__1_contigs__length_3649086	BRK	773292	773410	119
+PGA_scaffold_45__1_contigs__length_3649086	GAP	773628	773629	2	92	-90
+PGA_scaffold_45__1_contigs__length_3649086	JMP	774683	774681	-1
+PGA_scaffold_45__1_contigs__length_3649086	GAP	775360	775819	460	-9	469
+PGA_scaffold_45__1_contigs__length_3649086	GAP	776649	776650	2	1116	-1114
+PGA_scaffold_45__1_contigs__length_3649086	GAP	776925	780115	3191	213	2978
+PGA_scaffold_45__1_contigs__length_3649086	JMP	780391	780390	0
+PGA_scaffold_45__1_contigs__length_3649086	INV	780580	780689	110
+PGA_scaffold_45__1_contigs__length_3649086	INV	780851	781295	445
+PGA_scaffold_45__1_contigs__length_3649086	JMP	785587	786396	810
+PGA_scaffold_45__1_contigs__length_3649086	GAP	789282	789280	-1	86	-87
+PGA_scaffold_45__1_contigs__length_3649086	BRK	789509	790351	843
+PGA_scaffold_45__1_contigs__length_3649086	DUP	790352	790445	94
+PGA_scaffold_45__1_contigs__length_3649086	BRK	790446	790995	550
+PGA_scaffold_45__1_contigs__length_3649086	DUP	790996	791097	102
+PGA_scaffold_45__1_contigs__length_3649086	JMP	791098	791654	557
+PGA_scaffold_45__1_contigs__length_3649086	BRK	792013	792548	536
+PGA_scaffold_45__1_contigs__length_3649086	DUP	792549	792981	433
+PGA_scaffold_45__1_contigs__length_3649086	DUP	792922	793397	476
+PGA_scaffold_45__1_contigs__length_3649086	JMP	793398	793972	575
+PGA_scaffold_45__1_contigs__length_3649086	JMP	795155	793990	-1164
+PGA_scaffold_45__1_contigs__length_3649086	GAP	795155	795258	104	1812	-1708
+PGA_scaffold_45__1_contigs__length_3649086	GAP	795484	796497	1014	6824	-5810
+PGA_scaffold_45__1_contigs__length_3649086	JMP	797474	796776	-697
+PGA_scaffold_45__1_contigs__length_3649086	GAP	797968	798121	154	1974	-1820
+PGA_scaffold_45__1_contigs__length_3649086	GAP	798788	799127	340	365	-25
+PGA_scaffold_45__1_contigs__length_3649086	GAP	801867	802037	171	152	19
+PGA_scaffold_45__1_contigs__length_3649086	GAP	802700	802749	50	2741	-2691
+PGA_scaffold_45__1_contigs__length_3649086	GAP	803382	803769	388	252	136
+PGA_scaffold_45__1_contigs__length_3649086	JMP	804162	804189	28
+PGA_scaffold_45__1_contigs__length_3649086	BRK	805727	826977	21251
+PGA_scaffold_45__1_contigs__length_3649086	DUP	826978	827143	166
+PGA_scaffold_45__1_contigs__length_3649086	INV	827144	828942	1799
+PGA_scaffold_45__1_contigs__length_3649086	JMP	829493	836837	7345
+PGA_scaffold_45__1_contigs__length_3649086	DUP	836848	837038	191
+PGA_scaffold_45__1_contigs__length_3649086	BRK	837039	839416	2378
+PGA_scaffold_45__1_contigs__length_3649086	DUP	839417	840352	936
+PGA_scaffold_45__1_contigs__length_3649086	BRK	840353	844721	4369
+PGA_scaffold_45__1_contigs__length_3649086	DUP	844722	844803	82
+PGA_scaffold_45__1_contigs__length_3649086	BRK	844804	844812	9
+PGA_scaffold_45__1_contigs__length_3649086	DUP	844813	845737	925
+PGA_scaffold_45__1_contigs__length_3649086	JMP	845738	845157	-580
+PGA_scaffold_45__1_contigs__length_3649086	BRK	845738	847491	1754
+PGA_scaffold_45__1_contigs__length_3649086	DUP	847492	847789	298
+PGA_scaffold_45__1_contigs__length_3649086	JMP	847790	848313	524
+PGA_scaffold_45__1_contigs__length_3649086	BRK	848598	848933	336
+PGA_scaffold_45__1_contigs__length_3649086	DUP	848934	849103	170
+PGA_scaffold_45__1_contigs__length_3649086	DUP	848934	849103	170
+PGA_scaffold_45__1_contigs__length_3649086	BRK	849104	850046	943
+PGA_scaffold_45__1_contigs__length_3649086	DUP	850047	850270	224
+PGA_scaffold_45__1_contigs__length_3649086	BRK	850271	854453	4183
+PGA_scaffold_45__1_contigs__length_3649086	DUP	854454	854797	344
+PGA_scaffold_45__1_contigs__length_3649086	BRK	854798	854801	4
+PGA_scaffold_45__1_contigs__length_3649086	DUP	854802	854937	136
+PGA_scaffold_45__1_contigs__length_3649086	BRK	854938	855243	306
+PGA_scaffold_45__1_contigs__length_3649086	DUP	855244	855560	317
+PGA_scaffold_45__1_contigs__length_3649086	BRK	855561	860225	4665
+PGA_scaffold_45__1_contigs__length_3649086	DUP	860226	860350	125
+PGA_scaffold_45__1_contigs__length_3649086	BRK	860351	860690	340
+PGA_scaffold_45__1_contigs__length_3649086	DUP	860691	860956	266
+PGA_scaffold_45__1_contigs__length_3649086	BRK	860957	867438	6482
+PGA_scaffold_45__1_contigs__length_3649086	DUP	867439	867576	138
+PGA_scaffold_45__1_contigs__length_3649086	JMP	867577	870439	2863
+PGA_scaffold_45__1_contigs__length_3649086	BRK	871066	871907	842
+PGA_scaffold_45__1_contigs__length_3649086	DUP	871908	872206	299
+PGA_scaffold_45__1_contigs__length_3649086	JMP	872207	872797	591
+PGA_scaffold_45__1_contigs__length_3649086	BRK	873600	877492	3893
+PGA_scaffold_45__1_contigs__length_3649086	DUP	877493	877678	186
+PGA_scaffold_45__1_contigs__length_3649086	BRK	877679	879226	1548
+PGA_scaffold_45__1_contigs__length_3649086	DUP	879227	879407	181
+PGA_scaffold_45__1_contigs__length_3649086	BRK	879408	881174	1767
+PGA_scaffold_45__1_contigs__length_3649086	DUP	881175	881355	181
+PGA_scaffold_45__1_contigs__length_3649086	BRK	881356	882460	1105
+PGA_scaffold_45__1_contigs__length_3649086	DUP	882461	882679	219
+PGA_scaffold_45__1_contigs__length_3649086	BRK	882680	882934	255
+PGA_scaffold_45__1_contigs__length_3649086	DUP	882935	883124	190
+PGA_scaffold_45__1_contigs__length_3649086	JMP	883125	900628	17504
+PGA_scaffold_45__1_contigs__length_3649086	INV	900879	900847	-31
+PGA_scaffold_45__1_contigs__length_3649086	JMP	900961	901099	139
+PGA_scaffold_45__1_contigs__length_3649086	DUP	901305	902088	784
+PGA_scaffold_45__1_contigs__length_3649086	JMP	902089	902114	26
+PGA_scaffold_45__1_contigs__length_3649086	BRK	902206	902286	81
+PGA_scaffold_45__1_contigs__length_3649086	DUP	902287	902604	318
+PGA_scaffold_45__1_contigs__length_3649086	JMP	902605	917050	14446
+PGA_scaffold_45__1_contigs__length_3649086	INV	917182	917054	-127
+PGA_scaffold_45__1_contigs__length_3649086	BRK	917382	917513	132
+PGA_scaffold_45__1_contigs__length_3649086	DUP	917514	917734	221
+PGA_scaffold_45__1_contigs__length_3649086	BRK	917735	931046	13312
+PGA_scaffold_45__1_contigs__length_3649086	DUP	931047	931248	202
+PGA_scaffold_45__1_contigs__length_3649086	BRK	931249	949679	18431
+PGA_scaffold_45__1_contigs__length_3649086	DUP	949680	949790	111
+PGA_scaffold_45__1_contigs__length_3649086	JMP	949791	950622	832
+PGA_scaffold_45__1_contigs__length_3649086	JMP	950842	950623	-218
+PGA_scaffold_45__1_contigs__length_3649086	INV	951337	970795	19459
+PGA_scaffold_45__1_contigs__length_3649086	BRK	970993	975259	4267
+PGA_scaffold_45__1_contigs__length_3649086	DUP	975260	975871	612
+PGA_scaffold_45__1_contigs__length_3649086	JMP	975872	989736	13865
+PGA_scaffold_45__1_contigs__length_3649086	JMP	990421	990579	159
+PGA_scaffold_45__1_contigs__length_3649086	INV	991524	997113	5590
+PGA_scaffold_45__1_contigs__length_3649086	INV	997222	998673	1452
+PGA_scaffold_45__1_contigs__length_3649086	INV	998963	1005281	6319
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1005386	1012170	6785
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1012171	1012358	188
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1012359	1013910	1552
+PGA_scaffold_45__1_contigs__length_3649086	INV	1014081	1014208	128
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1014430	1014588	159
+PGA_scaffold_45__1_contigs__length_3649086	INV	1014589	1021147	6559
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1021435	1021149	-285
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1022026	1022111	86
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1022112	1025048	2937
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1025049	1025650	602
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1025089	1025653	565
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1025654	1027155	1502
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1027156	1027558	403
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1027559	1028102	544
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1028103	1028408	306
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1028409	1029013	605
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1029140	1031798	2659
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1031940	1041054	9115
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1041290	1042162	873
+PGA_scaffold_45__1_contigs__length_3649086	INV	1042342	1050050	7709
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1052044	1055456	3413
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1055457	1055761	305
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1055762	1058037	2276
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1058038	1058674	637
+PGA_scaffold_45__1_contigs__length_3649086	INV	1058675	1081299	22625
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1081722	1081952	231
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1081953	1082198	246
+PGA_scaffold_45__1_contigs__length_3649086	INV	1082199	1082046	-152
+PGA_scaffold_45__1_contigs__length_3649086	INV	1082267	1083058	792
+PGA_scaffold_45__1_contigs__length_3649086	INV	1083162	1093009	9848
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1093230	1101256	8027
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1101257	1101540	284
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1101541	1110913	9373
+PGA_scaffold_45__1_contigs__length_3649086	INV	1111114	1129729	18616
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1129993	1136419	6427
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1136420	1136934	515
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1136935	1139445	2511
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1139446	1140037	592
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1140038	1142513	2476
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1142514	1142679	166
+PGA_scaffold_45__1_contigs__length_3649086	INV	1142680	1147954	5275
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1148259	1156926	8668
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1156927	1157208	282
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1157209	1157240	32
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1157365	1157509	145
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1157510	1157729	220
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1157730	1160051	2322
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1160055	1160308	254
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1160309	1160542	234
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1160543	1160809	267
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1160543	1160799	257
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1160800	1171604	10805
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1171833	1211232	39400
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1211605	1211748	144
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1211749	1211868	120
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1211869	1212825	957
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1213417	1213601	185
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1213602	1213934	333
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1213923	1214458	536
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1214459	1214507	49
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1214508	1214829	322
+PGA_scaffold_45__1_contigs__length_3649086	INV	1214830	1224363	9534
+PGA_scaffold_45__1_contigs__length_3649086	INV	1224503	1224480	-22
+PGA_scaffold_45__1_contigs__length_3649086	INV	1225417	1224832	-584
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1225419	1226111	693
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1226112	1226179	68
+PGA_scaffold_45__1_contigs__length_3649086	INV	1226180	1240864	14685
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1241113	1244764	3652
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1244765	1244996	232
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1244997	1250287	5291
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1250288	1250429	142
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1250430	1250869	440
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1250870	1251084	215
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1250872	1251755	884
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1251741	1251885	145
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1251886	1252950	1065
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1253566	1279753	26188
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1279754	1279909	156
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1279910	1294697	14788
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1294815	1295080	266
+PGA_scaffold_45__1_contigs__length_3649086	INV	1295843	1298812	2970
+PGA_scaffold_45__1_contigs__length_3649086	INV	1298954	1313427	14474
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1313533	1313535	3	4001	-3998
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1313796	1333353	19558
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1333354	1333631	278
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1333632	1333697	66
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1333698	1334062	365
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1334063	1337542	3480
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1337543	1338168	626
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1338169	1349849	11681
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1349988	1350103	116
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1350104	1350331	228
+PGA_scaffold_45__1_contigs__length_3649086	INV	1350332	1350176	-155
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1350414	1356173	5760
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1356174	1356732	559
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1356401	1356762	362
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1356763	1356796	34
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1356797	1356946	150
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1356947	1367506	10560
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1367507	1367646	140
+PGA_scaffold_45__1_contigs__length_3649086	INV	1367647	1367767	121
+PGA_scaffold_45__1_contigs__length_3649086	INV	1368204	1391539	23336
+PGA_scaffold_45__1_contigs__length_3649086	INV	1391615	1391650	36
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1391814	1391940	127
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1391941	1394978	3038
+PGA_scaffold_45__1_contigs__length_3649086	INV	1395165	1416110	20946
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1416331	1416792	462
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1417350	1420539	3190
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1420540	1420679	140
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1420680	1421869	1190
+PGA_scaffold_45__1_contigs__length_3649086	INV	1422080	1422271	192
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1423366	1423471	106
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1423475	1423989	515
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1423990	1433859	9870
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1433860	1434414	555
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1434415	1441879	7465
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1441880	1441957	78
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1441958	1561029	119072
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1561030	1561262	233
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1561263	1567258	5996
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1567259	1567370	112
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1567371	1568621	1251
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1568772	1569177	406
+PGA_scaffold_45__1_contigs__length_3649086	INV	1569734	1570519	786
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1570609	1584041	13433
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1584042	1584245	204
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1584246	1585098	853
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1585306	1585528	223
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1585529	1585688	160
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1585684	1586078	395
+PGA_scaffold_45__1_contigs__length_3649086	INV	1586079	1601841	15763
+PGA_scaffold_45__1_contigs__length_3649086	INV	1602436	1603512	1077
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1603899	1609068	5170
+PGA_scaffold_45__1_contigs__length_3649086	INV	1609163	1609083	-79
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1609191	1616317	7127
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1616318	1616977	660
+PGA_scaffold_45__1_contigs__length_3649086	INV	1616978	1618912	1935
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1619448	1633508	14061
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1633509	1633647	139
+PGA_scaffold_45__1_contigs__length_3649086	INV	1633648	1645113	11466
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1645227	1653884	8658
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1653885	1654900	1016
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1654899	1655265	367
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1655266	1655526	261
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1656802	1660305	3504
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1660306	1661730	1425
+PGA_scaffold_45__1_contigs__length_3649086	INV	1661731	1667843	6113
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1670174	1670595	422	42	380
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1672028	1672337	310	24873	-24563
+PGA_scaffold_45__1_contigs__length_3649086	INV	1673561	1673594	34
+PGA_scaffold_45__1_contigs__length_3649086	INV	1673733	1673850	118
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1674247	1676728	2482
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1677126	1677145	20
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1677146	1677603	458
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1677604	1677647	44
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1677648	1678003	356
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1678004	1682430	4427
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1682431	1683960	1530
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1683961	1684160	200
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1684161	1684355	195
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1684356	1684656	301
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1685233	1685383	151
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1685902	1689945	4044
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1691643	1691923	281
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1692867	1693167	301
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1693765	1693605	-159
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1694031	1694244	214
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1694245	1694552	308
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1694553	1694769	217
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1694770	1695163	394
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1695159	1695359	201
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1695360	1698539	3180
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1698540	1698664	125
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1698665	1698702	38
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1700205	1702354	2150
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1706524	1708451	1928
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1708452	1709043	592
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1709044	1709183	140
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1709917	1710161	245	191	54
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1710522	1710519	-2	18227	-18229
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1712432	1710924	-1507	10777	-12284
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1713313	1714091	779
+PGA_scaffold_45__1_contigs__length_3649086	INV	1714092	1714083	-8
+PGA_scaffold_45__1_contigs__length_3649086	INV	1715031	1715025	-5
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1715724	1715796	73	417	-344
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1718654	1718650	-3
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1718853	1718989	137	201	-64
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1721282	1721310	29	880	-851
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1725660	1728343	2684	893	1791
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1733539	1733532	-6
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1734474	1734826	353
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1735403	1735606	204	215	-11
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1737414	1737406	-7	9998	-10005
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1741910	1741922	13	2088	-2075
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1743838	1743849	12	149	-137
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1745665	1745719	55	746	-691
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1746607	1746709	103	132	-29
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1747198	1747272	75
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1747696	1747810	115	88	27
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1749228	1749362	135	188	-53
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1750983	1751037	55	8177	-8122
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1751182	1751555	374	-9	383
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1752128	1752272	145	23	122
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1752784	1753014	231
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1753806	1753816	11
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1753817	1754187	371
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1753818	1754196	379
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1754197	1754465	269
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1757725	1757945	221
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1757946	1758270	325
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1758067	1758290	224
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1758291	1758450	160
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1758451	1758717	267
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1759679	1759694	16	239	-223
+PGA_scaffold_45__1_contigs__length_3649086	INV	1762290	1762289	0
+PGA_scaffold_45__1_contigs__length_3649086	INV	1762459	1762458	0
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1763617	1763854	238	159	79
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1765621	1765915	295	200	95
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1766470	1766463	-6
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1768885	1770334	1450	1109	341
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1771094	1771356	263	241	22
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1772553	1772737	185	335	-150
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1774093	1774100	8	102	-94
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1774475	1774567	93
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1774568	1774696	129
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1776368	1776502	135	380	-245
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1782323	1782464	142
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1787047	1787707	661
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1787708	1787714	7
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1794323	1794321	-1	166	-167
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1794599	1794600	2
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1794601	1794947	347
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1794948	1795278	331
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1795622	1795621	0
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1796364	1796365	2
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1803365	1803549	185	99	86
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1803861	1804427	567	362	205
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1804884	1804885	2	524	-522
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1809161	1809223	63	253	-190
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1814014	1814004	-9
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1814864	1815070	207	316	-109
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1815869	1815979	111
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1817586	1817583	-2	1070	-1072
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1818963	1819145	183	529	-346
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1820864	1821066	203	323	-120
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1821893	1822186	294	9024	-8730
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1826880	1826878	-1
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1828399	1828471	73	15	58
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1828782	1829346	565	4333	-3768
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1831145	1831155	11
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1831402	1831401	0
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1832151	1832346	196	132	64
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1834409	1834407	-1	183	-184
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1837254	1837246	-7	784	-791
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1837500	1837634	135	98	37
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1839797	1839786	-10	629	-639
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1841839	1841836	-2
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1844102	1845335	1234	1291	-57
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1846007	1846016	10	167	-157
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1849675	1849832	158	312	-154
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1853979	1853969	-9	831	-840
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1854496	1854496	1
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1854497	1854593	97
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1854594	1854659	66
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1854965	1854956	-8
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1855354	1855516	163	331	-168
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1856758	1856889	132	248	-116
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1858431	1858545	115	1136	-1021
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1862619	1863083	465	240	225
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1864536	1864699	164
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1864700	1865998	1299
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1870200	1870463	264	71	193
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1873209	1873381	173
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1876872	1876924	53	2739	-2686
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1877576	1877919	344	305	39
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1880790	1880952	163
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1880953	1881244	292
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1881245	1881306	62
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1884173	1884294	122	233	-111
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1884710	1884990	281
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1885571	1885851	281	1327	-1046
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1886156	1886339	184	51	133
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1887715	1887706	-8	1153	-1161
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1888355	1888595	241	449	-208
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1892321	1892515	195	241	-46
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1893781	1894154	374	278	96
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1902108	1905069	2962	14155	-11193
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1907902	1908212	311	347	-36
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1909120	1909340	221	21	200
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1913520	1913526	7
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1914176	1914193	18	162	-144
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1919981	1920330	350
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1920331	1920428	98
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1920429	1920735	307
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1920736	1920488	-247
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1925855	1927147	1293
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1927148	1927738	591
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1927739	1927848	110
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1927849	1927742	-106
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1928106	1928097	-8	1167	-1175
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1929321	1929376	56	8218	-8162
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1930688	1930677	-10	1089	-1099
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1932580	1932584	5
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1933108	1933142	35
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1935437	1935661	225	149	76
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1937735	1937918	184	15	169
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1938377	1938580	204	49	155
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1939098	1939416	319	141	178
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1940804	1940802	-1	133	-134
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1942192	1942343	152	29	123
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1946014	1946169	156	194	-38
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1948740	1949200	461	19740	-19279
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1949541	1949574	34	183	-149
+PGA_scaffold_45__1_contigs__length_3649086	DUP	1951090	1951289	200
+PGA_scaffold_45__1_contigs__length_3649086	BRK	1951290	1951393	104
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1953038	1953258	221	202	19
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1954116	1954330	215	82	133
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1955838	1956030	193	127	66
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1958248	1963536	5289	-1079	6368
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1969350	1969500	151	234	-83
+PGA_scaffold_45__1_contigs__length_3649086	INV	1969797	1969793	-3
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1970018	1970449	432	383	49
+PGA_scaffold_45__1_contigs__length_3649086	INV	1970611	1971450	840
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1972182	1972319	138	291	-153
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1973675	1973955	281	4	277
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1975773	1975799	27	130	-103
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1979245	1979324	80
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1979956	1980141	186	18	168
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1986504	1986625	122	143	-21
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1988826	1988931	106	378	-272
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1990036	1990231	196	-2	198
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1991649	1991796	148	225	-77
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1993066	1993179	114	4	110
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1996832	1997026	195	266	-71
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1997829	1997828	0	88	-88
+PGA_scaffold_45__1_contigs__length_3649086	GAP	1998321	1998669	349	217	132
+PGA_scaffold_45__1_contigs__length_3649086	JMP	1999187	1999445	259
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2000334	2000338	5	176	-171
+PGA_scaffold_45__1_contigs__length_3649086	INV	2001743	2001742	0
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2002126	2002126	1
+PGA_scaffold_45__1_contigs__length_3649086	INV	2002353	2002683	331
+PGA_scaffold_45__1_contigs__length_3649086	INV	2003024	2003019	-4
+PGA_scaffold_45__1_contigs__length_3649086	INV	2004099	2004083	-15
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2005026	2005326	301	162	139
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2005666	2005881	216	303	-87
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2006392	2006410	19	393	-374
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2014338	2014490	153	387	-234
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2018016	2018139	124	218	-94
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2018651	2018666	16	174	-158
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2020749	2020844	96	166	-70
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2023398	2023545	148	68	80
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2025414	2026307	894	-139	1033
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2027264	2027411	148	258	-110
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2030485	2030699	215	167	48
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2033579	2033852	274	237	37
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2034987	2034977	-9
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2036257	2036261	5	634	-629
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2038418	2038430	13	132	-119
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2039822	2039989	168	122	46
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2042221	2042362	142	564	-422
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2042557	2043901	1345
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2046296	2046436	141	166	-25
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2046705	2046800	96	288	-192
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2047144	2048741	1598	403	1195
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2049289	2049598	310	8664	-8354
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2051336	2051440	105	151	-46
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2052226	2052445	220	190	30
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2053554	2053795	242	139	103
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2056761	2056755	-5	211	-216
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2058429	2058525	97	123	-26
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2059694	2059821	128	116	12
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2061113	2061182	70
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2062877	2063586	710	242	468
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2064235	2064225	-9
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2064667	2064776	110	1	109
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2066004	2066167	164	497	-333
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2068082	2068228	147	134	13
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2070694	2070849	156	56	100
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2072272	2072263	-8	698	-706
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2073407	2073442	36	133	-97
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2074805	2074852	48	177	-129
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2076566	2077108	543	1109	-566
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2078976	2079824	849
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2079825	2080107	283
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2080108	2080177	70
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2083602	2083624	23
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2084227	2084232	6	507	-501
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2084782	2084888	107	14	93
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2086298	2086296	-1	103	-104
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2087839	2087957	119	80	39
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2090438	2090754	317	239	78
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2091973	2092199	227	291	-64
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2092650	2092885	236
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2094820	2094883	64	255	-191
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2096977	2097062	86	156	-70
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2097771	2097785	15	135	-120
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2098949	2098999	51
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2100239	2100241	3
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2100758	2100966	209
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2102107	2102643	537
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2102644	2102642	-1
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2104035	2104031	-3	672	-675
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2106833	2107584	752
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2107585	2107747	163
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2107748	2109815	2068
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2115529	2115615	87	139	-52
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2117999	2118348	350	362	-12
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2118936	2119144	209	279	-70
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2122269	2122315	47	2085	-2038
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2125473	2125488	16	188	-172
+PGA_scaffold_45__1_contigs__length_3649086	INV	2128736	2129696	961
+PGA_scaffold_45__1_contigs__length_3649086	INV	2129833	2129845	13
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2130728	2130869	142	378	-236
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2132002	2132161	160	57	103
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2133744	2134009	266	196	70
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2137812	2137999	188	144	44
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2138551	2138702	152	179	-27
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2139223	2139426	204	62	142
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2143561	2143666	106	397	-291
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2145964	2146178	215	70	145
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2146728	2147371	644	92	552
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2150031	2150460	430	470	-40
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2150904	2151076	173	328	-155
+PGA_scaffold_45__1_contigs__length_3649086	INV	2152401	2153105	705
+PGA_scaffold_45__1_contigs__length_3649086	INV	2153691	2153690	0
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2155793	2155937	145	20	125
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2156839	2157221	383	-7	390
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2160345	2160349	5	667	-662
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2161258	2161355	98	185	-87
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2162619	2162766	148	144	4
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2164741	2164889	149	143	6
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2165817	2165970	154	142	12
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2167701	2168008	308	110	198
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2170175	2170177	3
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2170178	2170283	106
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2170272	2170399	128
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2170400	2170480	81
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2170938	2170935	-2
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2171531	2171576	46	1155	-1109
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2172009	2172831	823	54	769
+PGA_scaffold_45__1_contigs__length_3649086	INV	2175044	2175512	469
+PGA_scaffold_45__1_contigs__length_3649086	INV	2175820	2176408	589
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2176840	2177002	163	98	65
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2179841	2179834	-6	656	-662
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2180839	2180860	22
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2180861	2181333	473
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2181334	2181388	55
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2183206	2183204	-1
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2184146	2184146	1	129	-128
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2184338	2184554	217	28	189
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2185092	2185131	40	266	-226
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2186324	2186592	269
+PGA_scaffold_45__1_contigs__length_3649086	INV	2186819	2186758	-60
+PGA_scaffold_45__1_contigs__length_3649086	INV	2187448	2187447	0
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2189690	2190166	477	188	289
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2195265	2195262	-2
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2195357	2195905	549	-75	624
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2196011	2196089	79
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2196546	2196715	170	112	58
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2198453	2198469	17	151	-134
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2203109	2203264	156	152	4
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2204289	2204517	229
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2204518	2205205	688
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2205206	2205369	164
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2205370	2205565	196
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2208051	2208046	-4	131	-135
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2209276	2209275	0
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2210415	2210411	-3
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2211075	2211171	97	127	-30
+PGA_scaffold_45__1_contigs__length_3649086	INV	2214052	2214054	3
+PGA_scaffold_45__1_contigs__length_3649086	INV	2215166	2215160	-5
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2217586	2217695	110	252	-142
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2221714	2221773	60	815	-755
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2222176	2222318	143	128	15
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2222939	2223100	162	92	70
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2224212	2224210	-1	141	-142
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2226461	2226451	-9
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2227160	2227370	211	133	78
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2227864	2228144	281	8388	-8107
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2230170	2231284	1115	301	814
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2233055	2233261	207	269	-62
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2236121	2236117	-3	53	-56
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2238187	2238223	37	161	-124
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2238540	2238679	140	96	44
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2238821	2239335	515
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2239336	2239338	3
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2239435	2239603	169	307	-138
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2241430	2241603	174	95	79
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2241998	2242112	115	220	-105
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2242684	2242814	131	76	55
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2245496	2245559	64	632	-568
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2248618	2248727	110	298	-188
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2249453	2249555	103	278	-175
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2249686	2250050	365	-4	369
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2250763	2250993	231	658	-427
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2251788	2252595	808	67	741
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2254713	2254769	57	227	-170
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2255274	2255327	54	180	-126
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2256272	2256312	41
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2258028	2257970	-57	-429	372
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2260509	2259622	-886	-271	-615
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2262730	2263099	370	112	258
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2263325	2263320	-4	233	-237
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2264258	2264452	195	433	-238
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2266353	2266873	521	404	117
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2267235	2267297	63	1608	-1545
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2267819	2267963	145	40	105
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2270615	2270938	324	1132	-808
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2271277	2271308	32	1283	-1251
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2276138	2276162	25	1138	-1113
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2278999	2279199	201	133	68
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2282337	2282617	281
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2282618	2282951	334
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2282952	2283162	211
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2287789	2287782	-6	281	-287
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2289774	2289823	50	213	-163
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2293103	2293242	140	71	69
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2294610	2294988	379	9	370
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2297333	2297448	116	134	-18
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2298281	2298416	136	494	-358
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2299687	2300001	315
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2300516	2302011	1496	1127	369
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2302643	2302682	40
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2302776	2303131	356
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2303132	2303631	500
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2303632	2304524	893
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2304525	2304758	234
+PGA_scaffold_45__1_contigs__length_3649086	INV	2304759	2305571	813
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2305992	2306428	437
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2306429	2306618	190
+PGA_scaffold_45__1_contigs__length_3649086	INV	2306619	2306796	178
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2307459	2307465	7	689	-682
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2311815	2312010	196	11	185
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2313420	2313401	-18
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2314098	2314252	155	197	-42
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2315669	2316182	514	328	186
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2318388	2318544	157	115	42
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2320105	2320096	-8	277	-285
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2323329	2323542	214
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2324050	2324115	66	726	-660
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2326265	2326272	8	145	-137
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2327225	2327304	80	574	-494
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2328237	2328558	322	239	83
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2329569	2330572	1004	29474	-28470
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2331221	2331573	353	20	333
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2331866	2331916	51
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2333081	2333388	308	538	-230
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2334375	2334532	158
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2335736	2335920	185
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2335921	2336114	194
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2336115	2336162	48
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2337121	2337313	193	33	160
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2338466	2338457	-8	830	-838
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2339100	2339264	165	223	-58
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2342201	2342293	93	108	-15
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2342708	2342960	253	44	209
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2344278	2344514	237	771	-534
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2346242	2346371	130	226	-96
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2346698	2346738	41	268	-227
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2347372	2347507	136	181	-45
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2348138	2348176	39
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2350574	2350756	183	302	-119
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2353192	2353283	92
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2354234	2354380	147	296	-149
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2354820	2355071	252	91	161
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2355628	2355889	262
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2355890	2356085	196
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2356086	2357725	1640
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2358750	2358878	129	78	51
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2359421	2359586	166	1114	-948
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2361069	2361185	117	143	-26
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2361554	2361709	156	0	156
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2362350	2363587	1238	-8	1246
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2367333	2367438	106	133	-27
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2368766	2368859	94
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2370112	2370385	274	160	114
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2370864	2370871	8	217	-209
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2373036	2374394	1359
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2374843	2374855	13
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2375433	2375047	-385
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2376475	2376503	29
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2376648	2376661	14	949	-935
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2378072	2378377	306
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2379614	2379618	5
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2379782	2379979	198	15	183
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2380895	2382017	1123	1039	84
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2382532	2382529	-2
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2382978	2383282	305	334	-29
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2383537	2383796	260
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2383797	2383801	5
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2383802	2383937	136
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2383938	2384450	513
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2384807	2385413	607
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2385414	2385407	-6
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2386433	2386450	18
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2386451	2386920	470
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2386921	2386739	-181
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2386934	2387250	317
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2388226	2388463	238	282	-44
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2388862	2390067	1206	151	1055
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2391433	2391487	55	168	-113
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2391818	2391970	153	103	50
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2394885	2394988	104	151	-47
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2398582	2398624	43	141	-98
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2399082	2399299	218	241	-23
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2399970	2399960	-9	1395	-1404
+PGA_scaffold_45__1_contigs__length_3649086	INV	2400343	2400101	-241
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2401661	2403668	2008
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2403669	2403815	147
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2403816	2404399	584
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2404400	2404445	46
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2405419	2405626	208
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2405627	2405925	299
+PGA_scaffold_45__1_contigs__length_3649086	INV	2405926	2406616	691
+PGA_scaffold_45__1_contigs__length_3649086	INV	2406900	2419143	12244
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2422570	2423809	1240	1233	7
+PGA_scaffold_45__1_contigs__length_3649086	INV	2425525	2431802	6278
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2432716	2433001	286	290	-4
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2433881	2434137	257	224	33
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2444579	2444708	130	243	-113
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2446814	2446914	101	468	-367
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2447577	2447607	31	266	-235
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2447944	2448142	199	154	45
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2448842	2449417	576	1388	-812
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2449809	2449975	167	218	-51
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2450342	2450500	159	244	-85
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2451059	2451065	7	116	-109
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2451737	2452002	266	219	47
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2452329	2452618	290	277	13
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2452960	2453196	237
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2453314	2454233	920
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2454234	2454240	7
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2454760	2454996	237	1434	-1197
+PGA_scaffold_45__1_contigs__length_3649086	INV	2457555	2457449	-105
+PGA_scaffold_45__1_contigs__length_3649086	INV	2457631	2457577	-53
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2457699	2457688	-10
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2460975	2461086	112
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2462324	2462322	-1	224	-225
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2468521	2468679	159	184	-25
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2469577	2469719	143	190	-47
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2470250	2470402	153	57	96
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2471573	2471602	30	873	-843
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2472047	2473105	1059	130	929
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2473891	2474013	123	160	-37
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2476828	2477031	204	249	-45
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2477498	2477633	136	157	-21
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2477978	2478151	174	245	-71
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2483380	2483838	459	2156	-1697
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2484760	2484919	160	108	52
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2487749	2487748	0	619	-619
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2488497	2488641	145	121	24
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2490678	2490704	27	190	-163
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2491403	2491483	81	832	-751
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2495397	2495625	229	155	74
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2495809	2495930	122	102	20
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2498896	2498940	45
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2501712	2501704	-7
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2509028	2509215	188	0	188
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2509859	2509925	67
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2510208	2510299	92
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2510300	2511099	800
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2511100	2511101	2
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2511102	2511526	425
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2511519	2512972	1454
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2512973	2513292	320
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2513293	2513836	544
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2513837	2513976	140
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2513977	2514550	574
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2514551	2514566	16
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2514567	2517822	3256
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2517823	2518039	217
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2518040	2518588	549
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2518589	2518808	220
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2519033	2519728	696
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2520451	2520544	94
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2520771	2521180	410
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2524861	2524850	-10	162	-172
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2525382	2525559	178
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2526271	2526561	291
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2526562	2527151	590
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2527390	2527950	561
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2528228	2528518	291
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2528866	2529530	665
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2529531	2529891	361
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2529892	2530118	227
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2530254	2531121	868
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2533803	2534056	254	110	144
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2535023	2535215	193	164	29
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2536078	2536154	77	411	-334
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2537526	2537653	128	93	35
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2546957	2547125	169	221	-52
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2550527	2550710	184	165	19
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2551835	2552137	303	401	-98
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2553173	2553172	0
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2553397	2553860	464	201	263
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2554316	2554312	-3
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2557068	2557346	279
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2558321	2558313	-7	699	-706
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2558852	2559087	236	-6	242
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2559958	2560071	114	144	-30
+PGA_scaffold_45__1_contigs__length_3649086	INV	2561399	2561398	0
+PGA_scaffold_45__1_contigs__length_3649086	INV	2561565	2561653	89
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2565460	2565458	-1
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2566310	2566306	-3
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2566759	2566910	152	131	21
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2567701	2568032	332	718	-386
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2568884	2569564	681	-5	686
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2571102	2571316	215	186	29
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2573624	2573886	263	1000	-737
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2574676	2574885	210	271	-61
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2575039	2575107	69	570	-501
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2576392	2576543	152	196	-44
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2579050	2579303	254	437	-183
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2579933	2580036	104	122	-18
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2580474	2581367	894	120	774
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2582078	2582279	202	-10	212
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2585034	2585032	-1	91	-92
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2586440	2586440	1	519	-518
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2586895	2587202	308	260	48
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2588455	2588503	49	211	-162
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2589122	2589521	400	313	87
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2589735	2589920	186	228	-42
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2590589	2590845	257	1316	-1059
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2592441	2593504	1064	2	1062
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2593943	2594072	130	366	-236
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2594603	2594903	301
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2595944	2596582	639
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2596583	2596760	178
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2596761	2596906	146
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2598169	2598285	117	399	-282
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2601890	2602126	237	54	183
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2602801	2602891	91	130	-39
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2604410	2604399	-10
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2604598	2604836	239	35	204
+PGA_scaffold_45__1_contigs__length_3649086	INV	2605304	2605298	-5
+PGA_scaffold_45__1_contigs__length_3649086	INV	2605432	2606057	626
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2606400	2608894	2495
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2608895	2609002	108
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2609003	2609167	165
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2609168	2609321	154
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2609322	2615162	5841
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2615851	2616112	262	302	-40
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2616709	2616718	10	84	-74
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2617273	2617273	1	156	-155
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2618227	2618581	355	53	302
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2619117	2619228	112	209	-97
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2621063	2621177	115	184	-69
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2621342	2621350	9	153	-144
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2622495	2622490	-4
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2622726	2622857	132	186	-54
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2625163	2625228	66	339	-273
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2626226	2627219	994
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2627220	2627508	289
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2627506	2628740	1235
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2628741	2629018	278
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2629019	2629494	476
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2629495	2632799	3305
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2632800	2633027	228
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2634748	2634928	181	180	1
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2638213	2638439	227
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2639630	2639792	163
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2641298	2641419	122	113	9
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2643727	2643917	191	306	-115
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2644354	2644353	0	200	-200
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2645564	2645683	120	12	108
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2646089	2646222	134
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2646786	2646995	210	104	106
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2647478	2647817	340	367	-27
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2649542	2649531	-10	241	-251
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2649722	2650192	471	39	432
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2650689	2650680	-8	831	-839
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2651216	2651264	49
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2654418	2654409	-8
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2655367	2655453	87	192	-105
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2655947	2656024	78	235	-157
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2656761	2656849	89	337	-248
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2657216	2657626	411
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2657627	2657823	197
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2657824	2657847	24
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2657996	2657994	-1
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2658749	2658761	13
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2659110	2659522	413	322	91
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2659890	2659936	47	123	-76
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2661165	2661246	82	-2	84
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2661997	2662391	395	467	-72
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2663598	2663909	312	248	64
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2664241	2664730	490	279	211
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2665180	2665455	276	262	14
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2667670	2667794	125	176	-51
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2668829	2668844	16	168	-152
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2669040	2669072	33	162	-129
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2669533	2669789	257
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2669790	2670556	767
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2670653	2670662	10
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2670892	2671672	781
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2672315	2672500	186	176	10
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2673520	2673589	70	871	-801
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2674088	2675861	1774
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2675862	2675968	107
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2675969	2676248	280
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2676249	2676524	276
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2676525	2677975	1451
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2682022	2682274	253	229	24
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2683202	2683710	509	384	125
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2684350	2684496	147	94	53
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2693949	2694249	301	208	93
+PGA_scaffold_45__1_contigs__length_3649086	INV	2694898	2694902	5
+PGA_scaffold_45__1_contigs__length_3649086	INV	2695502	2695501	0
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2696375	2696369	-5
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2696805	2697144	340	301	39
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2697503	2697644	142	170	-28
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2697791	2697883	93	122	-29
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2698297	2698371	75	241	-166
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2699131	2699255	125	116	9
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2700209	2700257	49	205	-156
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2700494	2700836	343	330	13
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2703622	2704802	1181
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2705532	2705706	175	181	-6
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2707337	2707519	183	288	-105
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2708142	2708592	451
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2708717	2708876	160
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2712674	2712819	146	145	1
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2716220	2716364	145	6645	-6500
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2717097	2717251	155	188	-33
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2717642	2717807	166	121	45
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2718423	2718939	517
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2719579	2719994	416	279	137
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2721055	2721394	340	560	-220
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2721804	2722196	393	299	94
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2722508	2723402	895	1289	-394
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2723690	2723897	208	70	138
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2724945	2725068	124	109	15
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2725544	2725675	132	150	-18
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2726040	2726536	497	702	-205
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2727074	2727699	626	123	503
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2728193	2728502	310
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2728503	2729162	660
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2729163	2729234	72
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2729837	2730276	440	1179	-739
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2730511	2730543	33
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2731192	2732379	1188	4	1184
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2732734	2732741	8	516	-508
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2733078	2734017	940	408	532
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2734121	2734408	288	309	-21
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2735079	2735235	157	64	93
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2735693	2735917	225	337	-112
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2736254	2736392	139	230	-91
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2737251	2737598	348	628	-280
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2737776	2738176	401	506	-105
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2738734	2739451	718	736	-18
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2739856	2740403	548
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2742042	2742348	307	317	-10
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2742709	2743874	1166	924	242
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2744739	2744913	175	0	175
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2749703	2749695	-7	175	-182
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2751354	2751839	486
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2752425	2752945	521
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2753845	2753857	13
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2753858	2754401	544
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2754402	2754700	299
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2755355	2755501	147	447	-300
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2756491	2756663	173
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2756664	2756697	34
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2757148	2757989	842
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2758401	2759054	654
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2759674	2760480	807	20	787
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2760915	2761174	260	273	-13
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2761547	2761868	322	225	97
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2762537	2762540	4	111	-107
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2763376	2763554	179	202	-23
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2765108	2765230	123
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2765731	2765729	-1
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2765973	2767628	1656
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2768091	2768137	47
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2768498	2768823	326	2317	-1991
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2769008	2769509	502
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2770677	2770830	154	224	-70
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2771163	2772516	1354	182	1172
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2773020	2773011	-8	104	-112
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2773675	2773767	93	-1	94
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2774442	2774433	-8	673	-681
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2775783	2775892	110
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2775788	2776374	587
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2777694	2777855	162
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2777955	2777917	-37
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2778060	2778584	525
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2779169	2779310	142	1844	-1702
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2779823	2780118	296
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2780562	2780700	139	135	4
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2783765	2783759	-5
+PGA_scaffold_45__1_contigs__length_3649086	INV	2784891	2785126	236
+PGA_scaffold_45__1_contigs__length_3649086	INV	2785221	2785221	1
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2785983	2786372	390	1419	-1029
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2787760	2787747	-12	61	-73
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2788919	2789248	330	197	133
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2790164	2790325	162	50	112
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2791142	2791459	318	185	133
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2791757	2792522	766
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2792621	2792810	190
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2793090	2793337	248
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2793338	2793473	136
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2793861	2795038	1178
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2795039	2795396	358
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2795397	2797194	1798
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2797195	2797372	178
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2797373	2798737	1365
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2798738	2798986	249
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2798987	2799655	669
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2799656	2800653	998
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2800654	2802975	2322
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2803451	2805003	1553
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2805359	2806060	702
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2806061	2806433	373
+PGA_scaffold_45__1_contigs__length_3649086	INV	2806434	2808113	1680
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2808304	2809655	1352
+PGA_scaffold_45__1_contigs__length_3649086	INV	2809810	2811203	1394
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2811917	2812062	146
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2813022	2813074	53
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2813075	2813316	242
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2813317	2813379	63
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2813380	2813492	113
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2813493	2813522	30
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2813523	2813637	115
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2813638	2813735	98
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2814482	2814816	335	726	-391
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2815733	2816198	466	279	187
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2817129	2817471	343	422	-79
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2817863	2817972	110
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2817973	2818604	632
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2821797	2821832	36	1110	-1074
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2824017	2824132	116	15	101
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2825361	2825350	-10
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2825652	2825654	3
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2825655	2826330	676
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2826321	2826633	313
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2827273	2828775	1503	727	776
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2829285	2829943	659
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2830506	2830945	440	602	-162
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2831650	2832025	376	311	65
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2832565	2832733	169	746	-577
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2833448	2833891	444	1255	-811
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2834693	2834968	276
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2835986	2836221	236	267	-31
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2837696	2837905	210	135	75
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2838589	2838597	9
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2839128	2839148	21
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2840434	2841007	574	292	282
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2842161	2842657	497
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2843080	2843241	162	138	24
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2844563	2845002	440	20	420
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2846067	2846526	460	679	-219
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2846878	2847324	447	454	-7
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2847661	2847878	218	408	-190
+PGA_scaffold_45__1_contigs__length_3649086	INV	2848473	2848729	257
+PGA_scaffold_45__1_contigs__length_3649086	INV	2849284	2849973	690
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2850596	2850855	260	262	-2
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2853793	2853857	65	258	-193
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2854291	2855162	872
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2855548	2857567	2020
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2858709	2859631	923	0	923
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2860894	2861218	325	214	111
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2862034	2862576	543	485	58
+PGA_scaffold_45__1_contigs__length_3649086	INV	2863013	2863517	505
+PGA_scaffold_45__1_contigs__length_3649086	INV	2864125	2864148	24
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2864435	2864434	0
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2864737	2865324	588
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2867199	2867347	149	243	-94
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2867703	2868065	363	334	29
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2868741	2868852	112	732	-620
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2869280	2869564	285	292	-7
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2870230	2870242	13	211	-198
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2871290	2875179	3890
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2875420	2876743	1324
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2877007	2879483	2477
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2879484	2879738	255
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2879739	2880781	1043
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2881268	2881432	165	458	-293
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2882589	2882605	17	144	-127
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2882971	2883423	453	1528	-1075
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2883778	2884512	735
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2884513	2885093	581
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2885094	2885110	17
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2885111	2885475	365
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2885476	2885928	453
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2885929	2886282	354
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2886283	2887220	938
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2887802	2887831	30	215	-185
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2888471	2888762	292	181	111
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2889627	2889805	179	195	-16
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2891068	2891459	392	308	84
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2893478	2893615	138	91	47
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2894639	2894701	63
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2895637	2896248	612	204	408
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2897499	2898580	1082	1144	-62
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2898794	2907266	8473
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2907363	2909936	2574
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2909937	2910092	156
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2909992	2910268	277
+PGA_scaffold_45__1_contigs__length_3649086	INV	2910269	2913634	3366
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2913769	2918580	4812
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2918581	2918766	186
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2918767	2919249	483
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2919250	2919775	526
+PGA_scaffold_45__1_contigs__length_3649086	INV	2919776	2922101	2326
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2924468	2924739	272
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2925302	2925394	93	329	-236
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2927407	2927797	391	1037	-646
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2928527	2929800	1274
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2929801	2929911	111
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2929912	2934284	4373
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2934285	2934444	160
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2934445	2943019	8575
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2944744	2945138	395	381	14
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2946278	2946494	217	222	-5
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2947148	2949028	1881	527	1354
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2949555	2951741	2187
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2951742	2951885	144
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2951886	2955023	3138
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2955405	2955397	-7	180	-187
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2955904	2956304	401	374	27
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2956587	2957080	494	441	53
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2957399	2957779	381	382	-1
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2958843	2959242	400	508	-108
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2959793	2960236	444	472	-28
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2960917	2960986	70
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2960987	2961071	85
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2961072	2961670	599
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2962312	2962578	267
+PGA_scaffold_45__1_contigs__length_3649086	INV	2963198	2963231	34
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2963407	2963412	6
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2963413	2963525	113
+PGA_scaffold_45__1_contigs__length_3649086	INV	2963526	2963570	45
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2963748	2963741	-6
+PGA_scaffold_45__1_contigs__length_3649086	INV	2964079	2966370	2292
+PGA_scaffold_45__1_contigs__length_3649086	INV	2967492	2968295	804
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2969727	2970100	374	397	-23
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2970481	2970793	313	365	-52
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2972408	2972609	202	481	-279
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2972969	2973169	201	466	-265
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2974590	2974743	154	436	-282
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2975603	2975920	318	329	-11
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2976351	2976361	11	143	-132
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2976888	2977116	229	237	-8
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2977593	2977903	311	189	122
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2978292	2978479	188	134	54
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2980090	2980220	131	106	25
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2980666	2980953	288	346	-58
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2981581	2981917	337	242	95
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2982187	2982703	517	519	-2
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2983128	2983510	383	696	-313
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2983918	2984020	103
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2984021	2984281	261
+PGA_scaffold_45__1_contigs__length_3649086	INV	2984282	2984277	-4
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2984877	2985233	357
+PGA_scaffold_45__1_contigs__length_3649086	INV	2985234	2986713	1480
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2987598	2987900	303	137	166
+PGA_scaffold_45__1_contigs__length_3649086	INV	2989054	2989171	118
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2989429	2989784	356
+PGA_scaffold_45__1_contigs__length_3649086	BRK	2989785	2989814	30
+PGA_scaffold_45__1_contigs__length_3649086	DUP	2989815	2989950	136
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2989951	2989818	-132
+PGA_scaffold_45__1_contigs__length_3649086	INV	2990078	2990083	6
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2991186	2992030	845	-8	853
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2993429	2993882	454	344	110
+PGA_scaffold_45__1_contigs__length_3649086	JMP	2994215	2994354	140
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2995623	2995893	271	97	174
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2996114	2996493	380	462	-82
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2997968	2997966	-1	134	-135
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2999092	2999315	224	921	-697
+PGA_scaffold_45__1_contigs__length_3649086	GAP	2999646	2999997	352	538	-186
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3000221	3000312	92	207	-115
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3000415	3000495	81	206	-125
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3001121	3001370	250	271	-21
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3002088	3002553	466
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3002554	3002896	343
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3002897	3003134	238
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3003472	3003553	82	271	-189
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3004280	3004496	217	175	42
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3005359	3005606	248	138	110
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3007170	3007330	161	107	54
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3007635	3007840	206	217	-11
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3008455	3008471	17	105	-88
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3009386	3009648	263	292	-29
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3012101	3012522	422	194	228
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3012753	3013060	308	354	-46
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3013424	3014150	727	128	599
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3014455	3014654	200	188	12
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3015098	3015412	315	289	26
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3016613	3016957	345	633	-288
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3018215	3018460	246	205	41
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3018562	3018833	272	274	-2
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3019356	3019457	102	145	-43
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3020209	3020490	282	286	-4
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3020852	3021166	315	202	113
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3022497	3022770	274	139	135
+PGA_scaffold_45__1_contigs__length_3649086	INV	3022899	3033153	10255
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3033728	3033958	231
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3033959	3034410	452
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3034411	3034522	112
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3034523	3035335	813
+PGA_scaffold_45__1_contigs__length_3649086	INV	3035336	3039841	4506
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3040214	3040667	454	433	21
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3040989	3041419	431	335	96
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3041778	3044299	2522	1652	870
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3044570	3044579	10	2509	-2499
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3045592	3045988	397	996	-599
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3046437	3046563	127	321	-194
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3046909	3047009	101	127	-26
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3047685	3047909	225	183	42
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3048292	3048509	218	274	-56
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3048888	3049260	373	291	82
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3049706	3049904	199	160	39
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3050470	3050501	32	217	-185
+PGA_scaffold_45__1_contigs__length_3649086	INV	3051191	3051188	-2
+PGA_scaffold_45__1_contigs__length_3649086	INV	3051382	3051421	40
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3052861	3053664	804	13	791
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3056507	3056829	323	369	-46
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3059496	3059512	17
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3059513	3059790	278
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3059791	3060002	212
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3060003	3060276	274
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3060277	3060589	313
+PGA_scaffold_45__1_contigs__length_3649086	INV	3061244	3061561	318
+PGA_scaffold_45__1_contigs__length_3649086	INV	3061793	3061792	0
+PGA_scaffold_45__1_contigs__length_3649086	INV	3062270	3062787	518
+PGA_scaffold_45__1_contigs__length_3649086	INV	3063284	3063809	526
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3064369	3064369	1
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3064370	3064836	467
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3064837	3064996	160
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3067956	3068496	541
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3068868	3069236	369
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3069759	3070007	249	28	221
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3070469	3071004	536
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3071236	3078132	6897
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3078133	3078269	137
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3078270	3079380	1111
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3079381	3079615	235
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3079402	3079704	303
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3079705	3080260	556
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3080484	3081021	538
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3081334	3084213	2880
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3084547	3085315	769	243	526
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3085811	3086320	510	523	-13
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3086752	3087634	883
+PGA_scaffold_45__1_contigs__length_3649086	INV	3087829	3087657	-171
+PGA_scaffold_45__1_contigs__length_3649086	INV	3088069	3088352	284
+PGA_scaffold_45__1_contigs__length_3649086	INV	3088974	3089173	200
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3089408	3092060	2653
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3092061	3092232	172
+PGA_scaffold_45__1_contigs__length_3649086	INV	3092233	3092060	-172
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3092240	3092882	643
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3093087	3092883	-203
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3093144	3094299	1156
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3094300	3094507	208
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3094508	3096634	2127
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3096793	3096945	153
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3096946	3097168	223
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3097169	3097871	703
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3098355	3098363	9
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3098776	3099179	404	5	399
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3099549	3099400	-148	51	-199
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3100439	3100614	176	222	-46
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3101087	3101439	353	291	62
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3101781	3102920	1140
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3102921	3103320	400
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3103321	3104406	1086
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3104407	3104546	140
+PGA_scaffold_45__1_contigs__length_3649086	INV	3104547	3105060	514
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3106084	3106619	536
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3106815	3109939	3125
+PGA_scaffold_45__1_contigs__length_3649086	INV	3110300	3112203	1904
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3112395	3112563	169	61	108
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3113112	3113545	434
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3113803	3113981	179	83	96
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3114491	3117114	2624	5047	-2423
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3117481	3117658	178	364	-186
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3118129	3118885	757	52	705
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3119853	3120061	209	198	11
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3121123	3121548	426	437	-11
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3121876	3122264	389	364	25
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3123286	3123832	547	488	59
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3124323	3124661	339	396	-57
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3125200	3125324	125	150	-25
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3125728	3125990	263	197	66
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3126366	3126359	-6	214	-220
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3127307	3128439	1133
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3129089	3129195	107	147	-40
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3129676	3130044	369
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3130223	3131872	1650
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3133558	3133827	270	343	-73
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3134053	3134384	332	324	8
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3135813	3135810	-2	1098	-1100
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3136888	3137234	347	286	61
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3137948	3138190	243	172	71
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3138627	3138640	14	340	-326
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3139052	3139172	121	270	-149
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3139492	3139603	112	157	-45
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3141579	3141815	237	341	-104
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3142278	3142278	1
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3142659	3142279	-379
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3142889	3142888	0
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3143381	3143438	58	195	-137
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3143933	3144194	262	111	151
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3145365	3145731	367	179	188
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3146337	3146794	458	434	24
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3147140	3147138	-1	139	-140
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3147765	3148055	291	329	-38
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3148784	3148763	-20	-205	185
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3151321	3151487	167	113	54
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3152022	3152569	548	883	-335
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3153539	3154548	1010	1009	1
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3154779	3155271	493	411	82
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3156034	3156274	241	55	186
+PGA_scaffold_45__1_contigs__length_3649086	INV	3156596	3156598	3
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3157316	3158190	875	756	119
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3159450	3160662	1213	35	1178
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3161368	3172869	11502
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3172870	3173216	347
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3172870	3173221	352
+PGA_scaffold_45__1_contigs__length_3649086	INV	3173222	3173393	172
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3173557	3173556	0	105	-105
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3174427	3174504	78	-72	150
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3175323	3175609	287	293	-6
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3177240	3177068	-171	0	-171
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3177707	3177968	262	354	-92
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3178564	3178935	372	476	-104
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3179728	3180044	317	119	198
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3180348	3180726	379	382	-3
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3181106	3181361	256
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3181362	3181675	314
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3181626	3181772	147
+PGA_scaffold_45__1_contigs__length_3649086	INV	3181773	3181924	152
+PGA_scaffold_45__1_contigs__length_3649086	INV	3182072	3182021	-50
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3182331	3182944	614	552	62
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3184063	3184326	264	392	-128
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3187039	3187570	532	521	11
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3187797	3188276	480
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3188535	3188629	95
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3189185	3189436	252	432	-180
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3189807	3189903	97	214	-117
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3190036	3190031	-4	3771	-3775
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3190203	3190377	175	222	-47
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3190958	3191139	182	263	-81
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3193046	3195132	2087	2024	63
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3196118	3196255	138
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3197238	3197489	252	237	15
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3197978	3198387	410	396	14
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3198941	3199118	178	348	-170
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3201228	3201583	356	275	81
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3201948	3202130	183	112	71
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3203181	3204322	1142
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3204323	3204591	269
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3204592	3204839	248
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3204840	3205060	221
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3205061	3205066	6
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3205067	3205220	154
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3205221	3205610	390
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3205611	3205768	158
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3205769	3207976	2208
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3208153	3208425	273	419	-146
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3208545	3211585	3041
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3211586	3212367	782
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3212368	3214405	2038
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3215931	3215888	-42	128	-170
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3216539	3216981	443	324	119
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3218098	3218377	280	61	219
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3218845	3219158	314	249	65
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3219485	3219597	113	2	111
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3220544	3220448	-95	-263	168
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3221939	3221969	31	216	-185
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3222298	3222463	166	112	54
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3222837	3223245	409	462	-53
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3223656	3223767	112	16	96
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3225303	3225425	123	5	118
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3225887	3225941	55	217	-162
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3227941	3228282	342
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3228635	3228714	80	242	-162
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3229790	3230209	420	294	126
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3231778	3232110	333	262	71
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3232905	3233209	305	325	-20
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3233591	3233604	14	149	-135
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3234328	3234612	285	299	-14
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3235072	3235366	295	213	82
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3239189	3239462	274	273	1
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3240843	3241136	294	372	-78
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3241950	3241500	-449	-125	-324
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3243096	3243125	30	402	-372
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3243807	3243927	121	134	-13
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3244481	3244746	266	248	18
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3245166	3245505	340	356	-16
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3250456	3250669	214	495	-281
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3251215	3251413	199	125	74
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3252084	3252108	25	-199	224
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3254109	3254591	483	511	-28
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3254941	3255179	239	192	47
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3255317	3255576	260	154	106
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3256104	3256210	107	-111	218
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3258964	3259127	164	63	101
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3260197	3260557	361	480	-119
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3261029	3261188	160	248	-88
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3261697	3262007	311	219	92
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3267986	3268063	78	180	-102
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3268661	3268932	272	276	-4
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3271175	3271343	169	92	77
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3272411	3272849	439	454	-15
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3273510	3273717	208
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3274146	3274254	109	202	-93
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3274639	3274937	299
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3274938	3275224	287
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3275225	3275304	80
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3275305	3275842	538
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3275843	3276105	263
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3276940	3277528	589
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3277529	3277737	209
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3277738	3285146	7409
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3286132	3286439	308
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3286440	3286692	253
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3286693	3286980	288
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3287997	3288729	733
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3289618	3289841	224	228	-4
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3292910	3293049	140	116	24
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3295393	3295671	279	169	110
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3296384	3296509	126	-1	127
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3296985	3296983	-1
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3299438	3299878	441	359	82
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3301724	3301853	130	132	-2
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3302604	3302808	205	183	22
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3304829	3304856	28	125	-97
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3305210	3305482	273	15	258
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3305828	3306109	282	273	9
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3310872	3311096	225	147	78
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3311413	3311754	342	425	-83
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3312119	3312474	356	389	-33
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3312669	3312984	316	383	-67
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3314241	3314425	185	182	3
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3315845	3316043	199	232	-33
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3317102	3317597	496	362	134
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3318298	3318615	318	357	-39
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3319159	3319481	323
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3319558	3319822	265
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3321133	3321436	304	374	-70
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3323346	3323444	99	105	-6
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3324040	3324239	200	6	194
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3324503	3324673	171	24	147
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3325040	3325050	11
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3326410	3326526	117	148	-31
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3327053	3327399	347	271	76
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3328088	3328394	307	268	39
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3328807	3329144	338	339	-1
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3329434	3329434	1	100	-99
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3332011	3332167	157	143	14
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3333078	3333277	200	263	-63
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3333457	3333619	163	134	29
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3334026	3334244	219	236	-17
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3334859	3335070	212	156	56
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3335358	3335703	346	131	215
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3342881	3343393	513	14	499
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3345599	3345852	254	249	5
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3346145	3346174	30
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3346175	3346846	672
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3346847	3349885	3039
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3352601	3352981	381	285	96
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3354017	3354127	111	110	1
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3354518	3354761	244	184	60
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3355729	3356165	437	151	286
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3356557	3356895	339	419	-80
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3358197	3358549	353	387	-34
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3358966	3359248	283	22738	-22455
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3360264	3360438	175	201	-26
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3361118	3361405	288	305	-17
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3362260	3363584	1325
+PGA_scaffold_45__1_contigs__length_3649086	INV	3363717	3363934	218
+PGA_scaffold_45__1_contigs__length_3649086	INV	3364336	3366516	2181
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3367075	3367302	228	107	121
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3368765	3368796	32	-61	93
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3373138	3373356	219	105	114
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3374429	3374453	25	137	-112
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3374578	3374784	207	238	-31
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3375083	3375237	155	8	147
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3376570	3376647	78	170	-92
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3378063	3378377	315	246	69
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3378807	3379051	245	891	-646
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3379693	3379762	70	137	-67
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3380311	3380612	302	244	58
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3386013	3386151	139
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3386152	3387508	1357
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3387509	3387509	1
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3390039	3389948	-90	-9	-81
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3390312	3390457	146	1302	-1156
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3393213	3393238	26
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3393596	3393701	106	11	95
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3394701	3395131	431
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3395476	3395614	139	-26	165
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3397544	3397737	194	284	-90
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3399966	3400211	246	218	28
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3401620	3401869	250	646	-396
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3402364	3402497	134	219	-85
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3409160	3409261	102	134	-32
+PGA_scaffold_45__1_contigs__length_3649086	INV	3411813	3411829	17
+PGA_scaffold_45__1_contigs__length_3649086	INV	3411928	3412064	137
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3412615	3412924	310	336	-26
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3414258	3414238	-19	597	-616
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3414982	3415282	301	445	-144
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3418484	3418899	416	363	53
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3419443	3419450	8	295	-287
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3419797	3419969	173
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3421360	3421481	122	289	-167
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3423071	3423377	307	116	191
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3423846	3424231	386	372	14
+PGA_scaffold_45__1_contigs__length_3649086	INV	3424532	3424558	27
+PGA_scaffold_45__1_contigs__length_3649086	INV	3424888	3424911	24
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3425188	3425775	588	397	191
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3426750	3426821	72	486	-414
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3427089	3427285	197	148	49
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3427836	3427972	137	284	-147
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3434221	3434323	103	133	-30
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3436111	3436122	12	118	-106
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3438385	3438604	220	204	16
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3439092	3439618	527	36	491
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3441976	3442259	284	294	-10
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3442544	3442846	303	1649	-1346
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3443234	3443370	137	254	-117
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3445922	3446233	312	218	94
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3447148	3447152	5	203	-198
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3448139	3448495	357	215	142
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3448955	3449048	94	115	-21
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3449867	3450035	169	77	92
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3451623	3451869	247	153	94
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3453907	3453945	39	135	-96
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3454851	3459526	4676	6	4670
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3459836	3460212	377	339	38
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3460443	3460479	37	300	-263
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3460703	3460945	243	217	26
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3461538	3461571	34	217	-183
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3463084	3463333	250	119	131
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3463837	3464104	268	322	-54
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3464601	3464729	129	240	-111
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3465934	3466027	94	139	-45
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3466392	3466688	297	313	-16
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3467442	3467696	255	479	-224
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3469103	3469336	234	31	203
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3470069	3470295	227	210	17
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3471363	3471397	35	214	-179
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3472056	3472425	370	392	-22
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3472906	3473069	164	169	-5
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3474498	3474915	418	324	94
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3475309	3475622	314	672	-358
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3475984	3476159	176	63	113
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3476507	3476880	374	299	75
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3477323	3477657	335	268	67
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3478237	3478352	116	102	14
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3480102	3480435	334	420	-86
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3480710	3480795	86	212	-126
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3481305	3481392	88	141	-53
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3485094	3485143	50	175	-125
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3485859	3486234	376	425	-49
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3486687	3486896	210	276	-66
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3487421	3487904	484	551	-67
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3488325	3488524	200	176	24
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3489081	3488949	-131	-8	-123
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3489349	3489479	131	-16	147
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3489650	3489662	13
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3490440	3490571	132	139	-7
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3492141	3492309	169	90	79
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3492726	3492760	35
+PGA_scaffold_45__1_contigs__length_3649086	DUP	3492761	3492830	70
+PGA_scaffold_45__1_contigs__length_3649086	BRK	3492831	3492932	102
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3493170	3493231	62	280	-218
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3493564	3493780	217	154	63
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3496356	3496569	214	220	-6
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3496896	3497130	235	192	43
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3497799	3497883	85	119	-34
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3499549	3504068	4520	14	4506
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3506060	3506173	114	104	10
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3506412	3506636	225	269	-44
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3506997	3507043	47	120	-73
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3507601	3507829	229	5488	-5259
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3512808	3512888	81	135	-54
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3513827	3514817	991	80	911
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3515127	3515450	324	321	3
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3516392	3516404	13	236	-223
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3517785	3517783	-1	187	-188
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3521094	3521282	189	75	114
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3522453	3522816	364	359	5
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3523043	3524160	1118	1029	89
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3525100	3525250	151	275	-124
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3527121	3527265	145	218	-73
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3527756	3528510	755	893	-138
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3528877	3529004	128	19	109
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3529280	3529278	-1	93	-94
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3529817	3529913	97	115	-18
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3530276	3530504	229	342	-113
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3530734	3530989	256	310	-54
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3531238	3531368	131	239	-108
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3531790	3532009	220	240	-20
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3532391	3532426	36	231	-195
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3532599	3532605	7	129	-122
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3533420	3533411	-8
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3534442	3534376	-65	268	-333
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3535805	3535922	118	126	-8
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3536722	3536745	24	211	-187
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3536911	3536911	1	209	-208
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3540241	3540444	204	51	153
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3541269	3541520	252	286	-34
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3544296	3546277	1982
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3548005	3548165	161	214	-53
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3548533	3548723	191	137	54
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3548951	3549313	363
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3550168	3550308	141	29	112
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3550680	3551054	375	512	-137
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3551369	3551373	5	235	-230
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3552388	3552530	143	76	67
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3553189	3553293	105	98	7
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3553603	3553648	46	227	-181
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3554842	3555013	172	283	-111
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3556992	3557010	19	169	-150
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3557171	3557186	16	220	-204
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3558081	3558159	79	156	-77
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3558685	3558937	253	247	6
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3559973	3560271	299	7	292
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3561187	3561222	36	199	-163
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3564719	3564722	4	207	-203
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3568379	3569484	1106
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3569881	3570913	1033
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3571699	3571884	186	312	-126
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3575494	3575619	126	11	115
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3575916	3576032	117	129	-12
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3576890	3576929	40	155	-115
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3579285	3579287	3	421	-418
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3580981	3580987	7	146	-139
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3582194	3582185	-8	683	-691
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3582725	3582785	61
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3583108	3583194	87	163	-76
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3583586	3583751	166	89	77
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3584146	3584301	156
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3584922	3585563	642	582	60
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3588132	3588169	38	185	-147
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3588558	3588681	124	4	120
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3594727	3594727	1	112	-111
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3598670	3598784	115	126	-11
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3599384	3599519	136	8	128
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3600195	3600275	81	239	-158
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3601483	3601586	104	-1	105
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3603218	3603296	79	146	-67
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3607400	3607452	53	220	-167
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3608439	3609048	610	150	460
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3609538	3609536	-1	109	-110
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3610383	3610530	148	189	-41
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3611546	3611700	155	145	10
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3611966	3612136	171	230	-59
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3615754	3615854	101	121	-20
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3617212	3617380	169	130	39
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3617942	3618049	108	148	-40
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3619974	3620076	103	164	-61
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3625355	3625464	110	111	-1
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3634991	3635094	104	0	104
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3636596	3636594	-1
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3636807	3636955	149	2	147
+PGA_scaffold_45__1_contigs__length_3649086	JMP	3637086	3637090	5
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3647146	3647149	4	200	-196
+PGA_scaffold_45__1_contigs__length_3649086	GAP	3648099	3648229	131	5	126

@@ -1,0 +1,2 @@
+SyntaxError in line 16 of /home/mike/Desktop/scripts/snakes/cov_vs_length/snakefile:
+Expected name or colon after rule or checkpoint keyword. (snakefile, line 16)

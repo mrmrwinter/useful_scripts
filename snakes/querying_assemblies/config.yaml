@@ -1,0 +1,4 @@
+assembly_path: "/media/mike/WD_4TB/karyon_longread/data/assemblies/hiCversion2.linear.fasta"  # full path to the assembly
+assembly: "hiCversion2.linear"  # name of assembly, also name of output folder
+threads: "2"  # number of threads
+query: "/home/mike/projects/jav_ploidy/data/queries/pre_jan/geneP.fasta"  # full path to the query

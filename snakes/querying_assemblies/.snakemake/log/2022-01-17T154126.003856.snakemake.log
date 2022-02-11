@@ -1,0 +1,23 @@
+Building DAG of jobs...
+Job stats:
+job                       count    min threads    max threads
+----------------------  -------  -------------  -------------
+all                           1              1              1
+blast                         1              1              1
+read_database_creation        1              1              1
+total                         3              1              1
+
+
+[Mon Jan 17 15:41:26 2022]
+Job 2: [INFO] Creating database of all input reads...
+
+
+[Mon Jan 17 15:41:26 2022]
+rule blast:
+    input: /home/mike/projects/jav_ploidy/data/queries/geneP.fasta, hiCversion1/database/hiCversion1.nin
+    output: hiCversion1/hits.blast.out
+    jobid: 1
+    resources: tmpdir=/tmp
+
+RuleException in line 46 of /media/mike/WD_4TB/querying_assemblies/snakefile:
+'Params' object has no attribute 'blastdb'

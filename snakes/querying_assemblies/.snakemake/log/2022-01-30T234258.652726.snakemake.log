@@ -1,0 +1,4 @@
+Building DAG of jobs...
+MissingInputException in line 46 of /home/mike/Desktop/scripts/snakes/querying_assemblies/snakefile:
+Missing input files for rule blast:
+/home/mike/projects/jav_ploidy/data/queries/geneP.fasta

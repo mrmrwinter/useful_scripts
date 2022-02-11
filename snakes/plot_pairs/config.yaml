@@ -1,0 +1,3 @@
+assembly_path: "/media/mike/WD_4TB/karyon_longread/data/assemblies/hiCversion1.linear.fasta"  # full path to the assembly
+assembly: "hiCversion1.linear"  # name of assembly, also name of output folder
+threads: "8"  # number of threads

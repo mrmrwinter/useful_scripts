@@ -1,0 +1,44 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 2
+Rules claiming more threads will be scaled down.
+Job stats:
+job                       count    min threads    max threads
+----------------------  -------  -------------  -------------
+all                           1              1              1
+blast                         1              1              1
+read_database_creation        1              1              1
+total                         3              1              1
+
+Select jobs to execute...
+
+[Mon Jan 17 15:45:27 2022]
+Job 2: [INFO] Creating database of all input reads...
+
+[Mon Jan 17 15:45:29 2022]
+Finished job 2.
+1 of 3 steps (33%) done
+Select jobs to execute...
+
+[Mon Jan 17 15:45:29 2022]
+rule blast:
+    input: /home/mike/projects/jav_ploidy/data/queries/geneP.fasta, VW4_HiFiasm.15.p_ctg.purge.SLR/database/VW4_HiFiasm.15.p_ctg.purge.SLR.nin
+    output: VW4_HiFiasm.15.p_ctg.purge.SLR/hits.blast.out
+    jobid: 1
+    resources: tmpdir=/tmp
+
+[Mon Jan 17 15:45:30 2022]
+Finished job 1.
+2 of 3 steps (67%) done
+Select jobs to execute...
+
+[Mon Jan 17 15:45:30 2022]
+localrule all:
+    input: VW4_HiFiasm.15.p_ctg.purge.SLR/hits.blast.out
+    jobid: 0
+    resources: tmpdir=/tmp
+
+[Mon Jan 17 15:45:30 2022]
+Finished job 0.
+3 of 3 steps (100%) done
+Complete log: /media/mike/WD_4TB/querying_assemblies/.snakemake/log/2022-01-17T154527.243594.snakemake.log

@@ -1,0 +1,28 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job                       count    min threads    max threads
+----------------------  -------  -------------  -------------
+all                           1              1              1
+blast                         1              1              1
+read_database_creation        1              1              1
+total                         3              1              1
+
+Select jobs to execute...
+
+[Sun Jan 30 23:44:29 2022]
+Job 2: [INFO] Creating database of all input reads...
+
+[Sun Jan 30 23:44:30 2022]
+Error in rule read_database_creation:
+    jobid: 2
+    output: hiCversion2.linear/database/hiCversion2.linear.nin
+    shell:
+        makeblastdb -in /media/mike/WD_4TB/karyon_longread/data/assemblies/hiCversion2.linear.fasta -input_type 'fasta' -parse_seqids -dbtype nucl -out hiCversion2.linear/database/hiCversion2.linear
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /home/mike/Desktop/scripts/snakes/querying_assemblies/.snakemake/log/2022-01-30T234429.181568.snakemake.log

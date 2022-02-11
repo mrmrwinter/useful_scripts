@@ -8,8 +8,8 @@ scaffold = os.system("awk 'sub(/^>/, '')' " + congig["assembly_path"])
 
 rule all:
     input:
-        config["assembly_path"] + "/{scaffold}.cov_vs_length.base.png",
-        config["assembly_path"] + "/{scaffold}.cov_vs_length.lattice.png"
+        "outputs/" + config["assembly_path"] + "/{scaffold}.cov_vs_length.base.png",
+        "outputs/" + config["assembly_path"] + "/{scaffold}.cov_vs_length.lattice.png"
 
 #1) First identify the depth at each locus from a bam file.
 
@@ -38,9 +38,9 @@ rule per_scaffold_coverage:
     message:
         "[INFO] Extracting individual scaffold coverage data..."
     input:
-        config["assembly_path"] + "/" + config["assembly"] + ".coverage"
+        "outputs/" + config["assembly_path"] + "/" + config["assembly"] + ".coverage"
     output:
-        config["assembly_path"] + "/{scaffold}.coverage"
+        "outputs/" + config["assembly_path"] + "/{scaffold}.coverage"
     shell:
         "awk '$1 == {scaffold} {print $0}' {input} > {output}"
 # Split chromosomes/scaffolds to save memory
@@ -52,10 +52,10 @@ rule plotting:
     message:
         "[INFO] ..."
     input:
-        config["assembly_path"] + "/{scaffold}.coverage"
+        "outputs/" + config["assembly_path"] + "/{scaffold}.coverage"
     output:
-        config["assembly_path"] + "/{scaffold}.cov_vs_length.base.png",
-        config["assembly_path"] + "/{scaffold}.cov_vs_length.lattice.png"
+        "outputs/" + config["assembly_path"] + "/{scaffold}.cov_vs_length.base.png",
+        "outputs/" + config["assembly_path"] + "/{scaffold}.cov_vs_length.lattice.png"
     shell:
         "Rscript scaffold <- read.table({input}, header=FALSE, sep='\t', na.strings='NA', dec='.', strip.white=TRUE) \
         library(reshape) \

@@ -5,7 +5,7 @@ configfile: "config.yaml"
 
 rule all:
     input:
-        config["assembly"] + "/hits.blast.out"
+        "outputs/" + config["assembly"] + "/hits.blast.out"
 
 
 rule read_database_creation:
@@ -14,9 +14,9 @@ rule read_database_creation:
     input:
         config["assembly_path"]
     output:
-        config["assembly"] + "/database/" + config["assembly"] + ".nin"
+        "outputs/" + config["assembly"] + "/database/" + config["assembly"] + ".nin"
     params:
-        db_name = config["assembly"] + "/database/" + config["assembly"]
+        db_name = "outputs/" + config["assembly"] + "/database/" + config["assembly"]
     shell:
         "makeblastdb -in {input} -input_type 'fasta' -dbtype nucl -out {params.db_name}"
 
@@ -24,11 +24,11 @@ rule read_database_creation:
 rule blast:
     input:
         query = config["query"],
-        db_name = config["assembly"] + "/database/" + config["assembly"] + ".nin"
+        db_name = "outputs/" + config["assembly"] + "/database/" + config["assembly"] + ".nin"
     output:
-        config["assembly"] + "/hits.blast.out"
+        "outputs/" + config["assembly"] + "/hits.blast.out"
     params:
-        blastdb = config["assembly"] + "/database/" + config["assembly"],
+        blastdb = "outputs/" + config["assembly"] + "/database/" + config["assembly"],
         threads = config["threads"]
     shell:
         "blastn \

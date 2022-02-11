@@ -5,9 +5,9 @@ configfile: "config.yaml"
 
 rule all:
     input:
-        config["assembly"] + "/hits.blast.out",
-        only_pairs_table = config["assembly"] + "/onlyPairs.tsv",
-        out_dir = directory(config["assembly"] + "/nucmer/")
+        "outputs/" + config["assembly"] + "/hits.blast.out",
+        only_pairs_table = "outputs/" + config["assembly"] + "/onlyPairs.tsv",
+        out_dir = directory("outputs/" + config["assembly"] + "/nucmer/")
 
 
 
@@ -17,9 +17,9 @@ rule database_creation:
     input:
         config["assembly_path"]
     output:
-        config["assembly"] + "/database/" + config["assembly"] + ".nin"
+        "outputs/" + config["assembly"] + "/database/" + config["assembly"] + ".nin"
     params:
-        db_name = config["assembly"] + "/database/" + config["assembly"]
+        db_name = "outputs/" + config["assembly"] + "/database/" + config["assembly"]
     shell:
         "makeblastdb -in {input} -input_type 'fasta' -parse_seqids -dbtype nucl -out {params.db_name}"
 
@@ -33,11 +33,11 @@ rule database_creation:
 rule blast:
     input:
         assembly=  config["assembly_path"],# input the assembly
-        db_name = config["assembly"] + "/database/" + config["assembly"] + ".nin"
+        db_name = "outputs/" + config["assembly"] + "/database/" + config["assembly"] + ".nin"
     output:
-        config["assembly"] + "/hits.blast.out"
+        "outputs/" + config["assembly"] + "/hits.blast.out"
     params:
-        blastdb = config["assembly"] + "/database/" + config["assembly"],
+        blastdb = "outputs/" + config["assembly"] + "/database/" + config["assembly"],
         threads = config["threads"]
     shell:
         "blastn \
@@ -54,9 +54,9 @@ rule blast:
 
 rule only_pairs:
     input:
-       blast = config["assembly"] + "/hits.blast.out"
+       blast = "outputs/" + config["assembly"] + "/hits.blast.out"
     output:
-       only_pairs_table = config["assembly"] + "/onlyPairs.tsv"
+       only_pairs_table = "outputs/" + config["assembly"] + "/onlyPairs.tsv"
     run:
        import pandas as pd
 
@@ -85,10 +85,10 @@ rule single_scaffold_extraction:
     input:
         assembly = config["assembly_path"],
     output:
-        # config["assembly"] + "/tmp/{scaffold}.fasta",
-        directory(config["assembly"] + "/tmp/"),
+        # "outputs/" + config["assembly"] + "/tmp/{scaffold}.fasta",
+        directory("outputs/" + config["assembly"] + "/tmp/"),
     params:
-        out_dir = config["assembly"] + "/tmp/"
+        out_dir = "outputs/" + config["assembly"] + "/tmp/"
     run:
         import os
 
@@ -100,12 +100,12 @@ rule single_scaffold_extraction:
 # # nucmer analysis/alignment
 rule nucmer_alignment:
     input:
-        only_pairs_table = config["assembly"] + "/onlyPairs.tsv"
+        only_pairs_table = "outputs/" + config["assembly"] + "/onlyPairs.tsv"
     output:
-        out_dir = directory(config["assembly"] + "/nucmer/")
+        out_dir = directory("outputs/" + config["assembly"] + "/nucmer/")
     params:
-        tigs = config["assembly"] + "/tmp/",
-        out_dir = config["assembly"] + "/nucmer/"
+        tigs = "outputs/" + config["assembly"] + "/tmp/",
+        out_dir = "outputs/" + config["assembly"] + "/nucmer/"
     run:
         import glob
         import os

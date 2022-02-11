@@ -3,6 +3,8 @@
 # Simple Spotify Control
 # Just call ./spotify_control --help
 
+# I cant remember where i ofund this but i didnt write it.
+
 CMD="dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player"
 
 case "$1" in

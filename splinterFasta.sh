@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Splinter a fasta file into an individual fasta file for each sequence that it contains
+
+# ./splinterFasta.sh -f <fasta>
+
 while [[ "$#" -gt 0 ]]; do
     case $1 in
         -f|--fasta) fasta="$2"; shift ;;

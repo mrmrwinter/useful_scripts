@@ -25,7 +25,7 @@
 - Clears out linuz swap memory when Linux is being weird.  
 #### mouse_fix.sh
 - Slows the mouse sensitivity down lower than the stock settings allows you to. Elbow turner approved.  
-#### splinterFasta.sh
-- Break a fasta containing multiple sequences into separate fasta files for each individual sequence. Good for splintering assemblies.  
+#### mappingCounts.py
+- Maps short read samples to reference genomes and generates counts of input reads and mapped reads.  
 #### spotify_control.sh
 - Binds spotify controls to keyboard buttons in Linux.  
